@@ -1,0 +1,374 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-14",
+  "name": "ola4.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Use code TRAVEL50 & get 30% off upto Rs 50 off on 2 Micro/Mini/Prime rides in Chennai. Valid till 7th Dec and b/w 6am-6pm. Ride now: bit.ly/C_SMS ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835839325,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 86,
+      "text": "Use code TRAVEL50 & get 30% off upto Rs 50 off on 2 Micro/Mini/Prime rides in Chennai.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 8,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 9,
+          "end": 17,
+          "text": "TRAVEL50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 18,
+          "end": 19,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 23,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 24,
+          "end": 26,
+          "text": "30",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 26,
+          "end": 27,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 28,
+          "end": 31,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 32,
+          "end": 36,
+          "text": "upto",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 37,
+          "end": 39,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 40,
+          "end": 42,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 43,
+          "end": 46,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 47,
+          "end": 49,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 50,
+          "end": 51,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 52,
+          "end": 57,
+          "text": "Micro",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 57,
+          "end": 58,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 58,
+          "end": 62,
+          "text": "Mini",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 62,
+          "end": 63,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 63,
+          "end": 68,
+          "text": "Prime",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 69,
+          "end": 74,
+          "text": "rides",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 75,
+          "end": 77,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 78,
+          "end": 85,
+          "text": "Chennai",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 85,
+          "end": 86,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 87,
+      "end": 122,
+      "text": "Valid till 7th Dec and b/w 6am-6pm.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 87,
+          "end": 92,
+          "text": "Valid",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 93,
+          "end": 97,
+          "text": "till",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 98,
+          "end": 101,
+          "text": "7th",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 102,
+          "end": 105,
+          "text": "Dec",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 106,
+          "end": 109,
+          "text": "and",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 110,
+          "end": 113,
+          "text": "b/w",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 114,
+          "end": 121,
+          "text": "6am-6pm",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 121,
+          "end": 122,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 123,
+      "end": 145,
+      "text": "Ride now: bit.ly/C_SMS",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 123,
+          "end": 127,
+          "text": "Ride",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 128,
+          "end": 131,
+          "text": "now",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 131,
+          "end": 132,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 133,
+          "end": 145,
+          "text": "bit.ly/C_SMS",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 9,
+      "end": 17,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 20,
+      "end": 46,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 47,
+      "end": 85,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 87,
+      "end": 121,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 133,
+      "end": 145,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m2",
+        "s0-m3"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s0-m2",
+        "s0-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

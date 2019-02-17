@@ -1,0 +1,353 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-19",
+  "name": "uber2.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "50% off 10 non uberPOOL rides! Activate the offer in your Uber app or enter promo code ridec597aw. Max. discount per ride is INR 50. http://t.uber.com/offer ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834337379,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 30,
+      "text": "50% off 10 non uberPOOL rides!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 2,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 2,
+          "end": 3,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 4,
+          "end": 7,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 8,
+          "end": 10,
+          "text": "10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 11,
+          "end": 14,
+          "text": "non",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 15,
+          "end": 23,
+          "text": "uberPOOL",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 24,
+          "end": 29,
+          "text": "rides",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 29,
+          "end": 30,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 31,
+      "end": 98,
+      "text": "Activate the offer in your Uber app or enter promo code ridec597aw.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 31,
+          "end": 39,
+          "text": "Activate",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 40,
+          "end": 43,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 44,
+          "end": 49,
+          "text": "offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 50,
+          "end": 52,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 53,
+          "end": 57,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 58,
+          "end": 62,
+          "text": "Uber",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 63,
+          "end": 66,
+          "text": "app",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 67,
+          "end": 69,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 70,
+          "end": 75,
+          "text": "enter",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 76,
+          "end": 81,
+          "text": "promo",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 82,
+          "end": 86,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 87,
+          "end": 97,
+          "text": "ridec597aw",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 97,
+          "end": 98,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 99,
+      "end": 103,
+      "text": "Max.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 99,
+          "end": 102,
+          "text": "Max",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 102,
+          "end": 103,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 104,
+      "end": 132,
+      "text": "discount per ride is INR 50.",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 104,
+          "end": 112,
+          "text": "discount",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 113,
+          "end": 116,
+          "text": "per",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 117,
+          "end": 121,
+          "text": "ride",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 122,
+          "end": 124,
+          "text": "is",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 125,
+          "end": 128,
+          "text": "INR",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t5",
+          "begin": 129,
+          "end": 131,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t6",
+          "begin": 131,
+          "end": 132,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "begin": 133,
+      "end": 156,
+      "text": "http://t.uber.com/offer",
+      "tokens": [
+        {
+          "id": "s4-t0",
+          "begin": 133,
+          "end": 156,
+          "text": "http://t.uber.com/offer",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 0,
+      "end": 7,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 8,
+      "end": 29,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 87,
+      "end": 97,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 104,
+      "end": 131,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 133,
+      "end": 156,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

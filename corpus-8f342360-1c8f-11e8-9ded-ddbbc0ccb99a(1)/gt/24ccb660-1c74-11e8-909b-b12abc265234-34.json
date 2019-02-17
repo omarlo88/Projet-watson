@@ -1,0 +1,342 @@
+{
+  "id": "24ccb660-1c74-11e8-909b-b12abc265234-34",
+  "name": "thepark2.txt",
+  "createdDate": 1519814579398,
+  "version": 3,
+  "text": "njoy exciting Thai Beer offer at most celebrated Thai restaurant -Lotus The Park Chennai Buy 2 Singha Beer get 1 free, For table reservations call -04442676000/ 9582366731 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519837391104,
+  "documentSet": [],
+  "preannotation": [
+    "PRE_SIRE"
+  ],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 171,
+      "text": "njoy exciting Thai Beer offer at most celebrated Thai restaurant -Lotus The Park Chennai Buy 2 Singha Beer get 1 free, For table reservations call -04442676000/ 9582366731",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "njoy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 13,
+          "text": "exciting",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 14,
+          "end": 18,
+          "text": "Thai",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 19,
+          "end": 23,
+          "text": "Beer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 24,
+          "end": 29,
+          "text": "offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 30,
+          "end": 32,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 33,
+          "end": 37,
+          "text": "most",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 38,
+          "end": 48,
+          "text": "celebrated",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 49,
+          "end": 53,
+          "text": "Thai",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 54,
+          "end": 64,
+          "text": "restaurant",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 65,
+          "end": 71,
+          "text": "-Lotus",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 72,
+          "end": 75,
+          "text": "The",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 76,
+          "end": 80,
+          "text": "Park",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 81,
+          "end": 88,
+          "text": "Chennai",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 89,
+          "end": 92,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 93,
+          "end": 94,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 95,
+          "end": 101,
+          "text": "Singha",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 102,
+          "end": 106,
+          "text": "Beer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 107,
+          "end": 110,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 111,
+          "end": 112,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 113,
+          "end": 117,
+          "text": "free",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 117,
+          "end": 118,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 119,
+          "end": 122,
+          "text": "For",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 123,
+          "end": 128,
+          "text": "table",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 129,
+          "end": 141,
+          "text": "reservations",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 142,
+          "end": 146,
+          "text": "call",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t26",
+          "begin": 147,
+          "end": 159,
+          "text": "-04442676000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t27",
+          "begin": 159,
+          "end": 160,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t28",
+          "begin": 161,
+          "end": 171,
+          "text": "9582366731",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m8",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 5,
+      "end": 23,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m6",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 49,
+      "end": 64,
+      "inCoref": false
+    },
+    {
+      "id": "-M0",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Offer"
+      },
+      "type": "Offer",
+      "begin": 89,
+      "end": 117,
+      "inCoref": false
+    },
+    {
+      "id": "-M1",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Merchant_Phone"
+      },
+      "type": "Merchant_Phone",
+      "begin": 147,
+      "end": 159,
+      "inCoref": false
+    },
+    {
+      "id": "-M2",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Merchant_Phone"
+      },
+      "type": "Merchant_Phone",
+      "begin": 161,
+      "end": 171,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m6",
+        "-M0"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "MerchanthasPhone",
+      "args": [
+        "s0-m6",
+        "-M1"
+      ]
+    },
+    {
+      "id": "s0-r3",
+      "properties": {},
+      "type": "MerchanthasPhone",
+      "args": [
+        "s0-m6",
+        "-M2"
+      ]
+    },
+    {
+      "id": "s0-r4",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "-M0",
+        "s0-m8"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

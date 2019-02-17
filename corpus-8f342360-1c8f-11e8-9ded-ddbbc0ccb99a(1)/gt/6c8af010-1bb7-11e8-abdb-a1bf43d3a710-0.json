@@ -1,0 +1,376 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-0",
+  "name": "msg_21.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "We Miss U @Dominos; Order Ur Fav Pizza Now; Buy 1 Regular Pizza & Get 40% OFF. Walk-In/Order@ 68886888/ goo.gl/CQThqp Cpn: CRM7BEA217E4F Valid till 21 Mar T&C\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834364945,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 78,
+      "text": "We Miss U @Dominos; Order Ur Fav Pizza Now; Buy 1 Regular Pizza & Get 40% OFF.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 2,
+          "text": "We",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 3,
+          "end": 7,
+          "text": "Miss",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 9,
+          "text": "U",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 10,
+          "end": 19,
+          "text": "@Dominos;",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 25,
+          "text": "Order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 26,
+          "end": 28,
+          "text": "Ur",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 29,
+          "end": 32,
+          "text": "Fav",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 33,
+          "end": 38,
+          "text": "Pizza",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 39,
+          "end": 42,
+          "text": "Now",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 42,
+          "end": 43,
+          "text": ";",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 44,
+          "end": 47,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 48,
+          "end": 49,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 50,
+          "end": 57,
+          "text": "Regular",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 58,
+          "end": 63,
+          "text": "Pizza",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 64,
+          "end": 65,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 66,
+          "end": 69,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 70,
+          "end": 72,
+          "text": "40",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 72,
+          "end": 73,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 74,
+          "end": 77,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 77,
+          "end": 78,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 79,
+      "end": 158,
+      "text": "Walk-In/Order@ 68886888/ goo.gl/CQThqp Cpn: CRM7BEA217E4F Valid till 21 Mar T&C",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 79,
+          "end": 83,
+          "text": "Walk",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 83,
+          "end": 84,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 84,
+          "end": 93,
+          "text": "In/Order@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 94,
+          "end": 102,
+          "text": "68886888",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 102,
+          "end": 103,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 104,
+          "end": 117,
+          "text": "goo.gl/CQThqp",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 118,
+          "end": 121,
+          "text": "Cpn",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 121,
+          "end": 122,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 123,
+          "end": 136,
+          "text": "CRM7BEA217E4F",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 137,
+          "end": 142,
+          "text": "Valid",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 143,
+          "end": 147,
+          "text": "till",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 148,
+          "end": 150,
+          "text": "21",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 151,
+          "end": 154,
+          "text": "Mar",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 155,
+          "end": 158,
+          "text": "T&C",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 10,
+      "end": 19,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 44,
+      "end": 77,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_Phone",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_Phone",
+      "begin": 94,
+      "end": 102,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 104,
+      "end": 117,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 123,
+      "end": 136,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 137,
+      "end": 154,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 155,
+      "end": 158,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

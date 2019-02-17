@@ -1,0 +1,355 @@
+{
+  "id": "24ccb660-1c74-11e8-909b-b12abc265234-1",
+  "name": "arcee.txt",
+  "createdDate": 1519814579398,
+  "version": 3,
+  "text": "#LoveThatLastsForever: Upto 11,000 cashback on your fav \"iPhone6\" only at ARCEE stores. Offer valid till 14th Feb. LIMITED STOCK. HURRY..!! Click bit.ly/i-ARCEE",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519836545131,
+  "documentSet": [],
+  "preannotation": [
+    "PRE_SIRE"
+  ],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 87,
+      "text": "#LoveThatLastsForever: Upto 11,000 cashback on your fav \"iPhone6\" only at ARCEE stores.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 21,
+          "text": "#LoveThatLastsForever",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 21,
+          "end": 22,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 23,
+          "end": 27,
+          "text": "Upto",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 28,
+          "end": 34,
+          "text": "11,000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 35,
+          "end": 43,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 44,
+          "end": 46,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 47,
+          "end": 51,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 52,
+          "end": 55,
+          "text": "fav",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 56,
+          "end": 57,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 57,
+          "end": 64,
+          "text": "iPhone6",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 64,
+          "end": 65,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 66,
+          "end": 70,
+          "text": "only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 71,
+          "end": 73,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 74,
+          "end": 79,
+          "text": "ARCEE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 80,
+          "end": 86,
+          "text": "stores",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 86,
+          "end": 87,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 88,
+      "end": 129,
+      "text": "Offer valid till 14th Feb. LIMITED STOCK.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 88,
+          "end": 93,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 94,
+          "end": 99,
+          "text": "valid",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 100,
+          "end": 104,
+          "text": "till",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 105,
+          "end": 109,
+          "text": "14th",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 110,
+          "end": 114,
+          "text": "Feb.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 115,
+          "end": 122,
+          "text": "LIMITED",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 123,
+          "end": 128,
+          "text": "STOCK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 128,
+          "end": 129,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 130,
+      "end": 138,
+      "text": "HURRY..!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 130,
+          "end": 135,
+          "text": "HURRY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 135,
+          "end": 137,
+          "text": "..",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 137,
+          "end": 138,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 138,
+      "end": 160,
+      "text": "! Click bit.ly/i-ARCEE",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 138,
+          "end": 139,
+          "text": "!",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 140,
+          "end": 145,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 146,
+          "end": 160,
+          "text": "bit.ly/i-ARCEE",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "-M0",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Offer"
+      },
+      "type": "Offer",
+      "begin": 23,
+      "end": 43,
+      "inCoref": false
+    },
+    {
+      "id": "-M1",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Offer_Applicable"
+      },
+      "type": "Offer_Applicable",
+      "begin": 47,
+      "end": 64,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 74,
+      "end": 79,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 100,
+      "end": 114,
+      "inCoref": false
+    },
+    {
+      "id": "-M4",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Merchant_URL"
+      },
+      "type": "Merchant_URL",
+      "begin": 146,
+      "end": 160,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "-M0",
+        "-M1"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m3",
+        "-M0"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

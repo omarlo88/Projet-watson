@@ -1,0 +1,226 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-15",
+  "name": "msg_36.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Play Rummy Free! No Deposit Required!\nRs.1,000 as Welcome Bonus.\nClick Here: http://chk.bz/9t4pv64w93\nSafe & Secured!\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834762515,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 16,
+      "text": "Play Rummy Free!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Play",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 10,
+          "text": "Rummy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 11,
+          "end": 15,
+          "text": "Free",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 15,
+          "end": 16,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 17,
+      "end": 37,
+      "text": "No Deposit Required!",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 17,
+          "end": 19,
+          "text": "No",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 20,
+          "end": 27,
+          "text": "Deposit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 28,
+          "end": 36,
+          "text": "Required",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 36,
+          "end": 37,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 38,
+      "end": 64,
+      "text": "Rs.1,000 as Welcome Bonus.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 38,
+          "end": 46,
+          "text": "Rs.1,000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 47,
+          "end": 49,
+          "text": "as",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 50,
+          "end": 57,
+          "text": "Welcome",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 58,
+          "end": 63,
+          "text": "Bonus",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 63,
+          "end": 64,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 65,
+      "end": 117,
+      "text": "Click Here: http://chk.bz/9t4pv64w93\nSafe & Secured!",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 65,
+          "end": 70,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 71,
+          "end": 75,
+          "text": "Here",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 75,
+          "end": 76,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 77,
+          "end": 101,
+          "text": "http://chk.bz/9t4pv64w93",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 102,
+          "end": 106,
+          "text": "Safe",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t5",
+          "begin": 107,
+          "end": 108,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t6",
+          "begin": 109,
+          "end": 116,
+          "text": "Secured",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t7",
+          "begin": 116,
+          "end": 117,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 38,
+      "end": 63,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 77,
+      "end": 101,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

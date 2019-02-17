@@ -1,0 +1,404 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-7",
+  "name": "homecentre2.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "Hurry, Last 2 days! HOME CENTRE FURNITURE FLAT 50% OFF + EXTRA 10% OFF (COUPON P6SG3K) in stores till 11-Feb. T&C. To opt out give missed call to +918039275834 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835051893,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 19,
+      "text": "Hurry, Last 2 days!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Hurry",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 6,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 7,
+          "end": 11,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 12,
+          "end": 13,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 14,
+          "end": 18,
+          "text": "days",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 18,
+          "end": 19,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 20,
+      "end": 159,
+      "text": "HOME CENTRE FURNITURE FLAT 50% OFF + EXTRA 10% OFF (COUPON P6SG3K) in stores till 11-Feb. T&C. To opt out give missed call to +918039275834",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 20,
+          "end": 24,
+          "text": "HOME",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 25,
+          "end": 31,
+          "text": "CENTRE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 32,
+          "end": 41,
+          "text": "FURNITURE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 42,
+          "end": 46,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 47,
+          "end": 49,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 49,
+          "end": 50,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 51,
+          "end": 54,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 55,
+          "end": 56,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 57,
+          "end": 62,
+          "text": "EXTRA",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 63,
+          "end": 65,
+          "text": "10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 65,
+          "end": 66,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 67,
+          "end": 70,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 71,
+          "end": 72,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 72,
+          "end": 78,
+          "text": "COUPON",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 79,
+          "end": 85,
+          "text": "P6SG3K",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 85,
+          "end": 86,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t16",
+          "begin": 87,
+          "end": 89,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t17",
+          "begin": 90,
+          "end": 96,
+          "text": "stores",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t18",
+          "begin": 97,
+          "end": 101,
+          "text": "till",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t19",
+          "begin": 102,
+          "end": 104,
+          "text": "11",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t20",
+          "begin": 104,
+          "end": 109,
+          "text": "-Feb.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t21",
+          "begin": 110,
+          "end": 114,
+          "text": "T&C.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t22",
+          "begin": 115,
+          "end": 117,
+          "text": "To",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t23",
+          "begin": 118,
+          "end": 121,
+          "text": "opt",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t24",
+          "begin": 122,
+          "end": 125,
+          "text": "out",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t25",
+          "begin": 126,
+          "end": 130,
+          "text": "give",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t26",
+          "begin": 131,
+          "end": 137,
+          "text": "missed",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t27",
+          "begin": 138,
+          "end": 142,
+          "text": "call",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t28",
+          "begin": 143,
+          "end": 145,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t29",
+          "begin": 146,
+          "end": 159,
+          "text": "+918039275834",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 20,
+      "end": 31,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 42,
+      "end": 70,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 79,
+      "end": 85,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 97,
+      "end": 109,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 110,
+      "end": 114,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m6",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_Phone",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_Phone",
+      "begin": 146,
+      "end": 159,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    },
+    {
+      "id": "s1-r2",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s1-m2",
+        "s1-m3"
+      ]
+    },
+    {
+      "id": "s1-r3",
+      "properties": {},
+      "type": "OfferhasValidityPeriod",
+      "args": [
+        "s1-m2",
+        "s1-m4"
+      ]
+    },
+    {
+      "id": "s1-r4",
+      "properties": {},
+      "type": "MerchanthasPhone",
+      "args": [
+        "s1-m1",
+        "s1-m6"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

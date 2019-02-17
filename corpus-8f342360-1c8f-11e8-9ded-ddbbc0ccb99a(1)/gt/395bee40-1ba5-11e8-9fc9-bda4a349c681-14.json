@@ -1,0 +1,389 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-14",
+  "name": "raymond.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "THE RAYMOND SHOP, ESWARAN KOVIL ST, ERODE: UPTO 40% OFF on Readymade (Wedding Suit-Shirt-Trouser) also Buy 3Pant & 3Shirt Fabric for Rs.1699/-Ph: 9659544599 TC* ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834196447,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 160,
+      "text": "THE RAYMOND SHOP, ESWARAN KOVIL ST, ERODE: UPTO 40% OFF on Readymade (Wedding Suit-Shirt-Trouser) also Buy 3Pant & 3Shirt Fabric for Rs.1699/-Ph: 9659544599 TC*",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "THE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 11,
+          "text": "RAYMOND",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 12,
+          "end": 16,
+          "text": "SHOP",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 16,
+          "end": 17,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 18,
+          "end": 25,
+          "text": "ESWARAN",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 26,
+          "end": 31,
+          "text": "KOVIL",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 32,
+          "end": 34,
+          "text": "ST",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 34,
+          "end": 35,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 36,
+          "end": 41,
+          "text": "ERODE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 41,
+          "end": 42,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 43,
+          "end": 47,
+          "text": "UPTO",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 48,
+          "end": 50,
+          "text": "40",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 50,
+          "end": 51,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 52,
+          "end": 55,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 56,
+          "end": 58,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 59,
+          "end": 68,
+          "text": "Readymade",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 69,
+          "end": 70,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 70,
+          "end": 77,
+          "text": "Wedding",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 78,
+          "end": 82,
+          "text": "Suit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 82,
+          "end": 83,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 83,
+          "end": 88,
+          "text": "Shirt",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 88,
+          "end": 89,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 89,
+          "end": 96,
+          "text": "Trouser",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 96,
+          "end": 97,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 98,
+          "end": 102,
+          "text": "also",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 103,
+          "end": 106,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t26",
+          "begin": 107,
+          "end": 112,
+          "text": "3Pant",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t27",
+          "begin": 113,
+          "end": 114,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t28",
+          "begin": 115,
+          "end": 121,
+          "text": "3Shirt",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t29",
+          "begin": 122,
+          "end": 128,
+          "text": "Fabric",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t30",
+          "begin": 129,
+          "end": 132,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t31",
+          "begin": 133,
+          "end": 144,
+          "text": "Rs.1699/-Ph",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t32",
+          "begin": 144,
+          "end": 145,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t33",
+          "begin": 146,
+          "end": 156,
+          "text": "9659544599",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t34",
+          "begin": 157,
+          "end": 160,
+          "text": "TC*",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 4,
+      "end": 11,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Branch",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Branch",
+      "begin": 18,
+      "end": 41,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 43,
+      "end": 55,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 59,
+      "end": 96,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 103,
+      "end": 144,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m6",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_Phone",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_Phone",
+      "begin": 146,
+      "end": 156,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m1",
+        "s0-m3"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m3",
+        "s0-m4"
+      ]
+    },
+    {
+      "id": "s0-r3",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m1",
+        "s0-m5"
+      ]
+    },
+    {
+      "id": "s0-r4",
+      "properties": {},
+      "type": "MerchanthasPhone",
+      "args": [
+        "s0-m1",
+        "s0-m6"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

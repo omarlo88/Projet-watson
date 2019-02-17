@@ -1,0 +1,324 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-5",
+  "name": "igp.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "IGP guarantees V-Day gift delivery by Feb 14. Choose gifts from our Express Delivery Catalogue. Use extra 15% off code LOVE15. Gift Now https://goo.gl/bi5aBz",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519833951747,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 45,
+      "text": "IGP guarantees V-Day gift delivery by Feb 14.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "IGP",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 14,
+          "text": "guarantees",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 15,
+          "end": 20,
+          "text": "V-Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 21,
+          "end": 25,
+          "text": "gift",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 26,
+          "end": 34,
+          "text": "delivery",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 35,
+          "end": 37,
+          "text": "by",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 38,
+          "end": 41,
+          "text": "Feb",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 42,
+          "end": 44,
+          "text": "14",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 44,
+          "end": 45,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 46,
+      "end": 95,
+      "text": "Choose gifts from our Express Delivery Catalogue.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 46,
+          "end": 52,
+          "text": "Choose",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 53,
+          "end": 58,
+          "text": "gifts",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 59,
+          "end": 63,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 64,
+          "end": 67,
+          "text": "our",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 68,
+          "end": 75,
+          "text": "Express",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 76,
+          "end": 84,
+          "text": "Delivery",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 85,
+          "end": 94,
+          "text": "Catalogue",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 94,
+          "end": 95,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 96,
+      "end": 126,
+      "text": "Use extra 15% off code LOVE15.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 96,
+          "end": 99,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 100,
+          "end": 105,
+          "text": "extra",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 106,
+          "end": 108,
+          "text": "15",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 108,
+          "end": 109,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 110,
+          "end": 113,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 114,
+          "end": 118,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 119,
+          "end": 125,
+          "text": "LOVE15",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 125,
+          "end": 126,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 127,
+      "end": 157,
+      "text": "Gift Now https://goo.gl/bi5aBz",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 127,
+          "end": 131,
+          "text": "Gift",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 132,
+          "end": 135,
+          "text": "Now",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 136,
+          "end": 157,
+          "text": "https://goo.gl/bi5aBz",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 0,
+      "end": 3,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 68,
+      "end": 94,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 100,
+      "end": 113,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 119,
+      "end": 125,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 136,
+      "end": 157,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s2-m1",
+        "s2-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

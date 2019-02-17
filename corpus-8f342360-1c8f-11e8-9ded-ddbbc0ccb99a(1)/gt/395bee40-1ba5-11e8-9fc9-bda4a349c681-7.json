@@ -1,0 +1,337 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-7",
+  "name": "lazypay2.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Get the super fast internet benefit right to your home or office with ACT! Take a 20% CASHBACK when you pay via LazyPay. Click here goo.gl/iNbqr1 .T&C apply",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519833994861,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 74,
+      "text": "Get the super fast internet benefit right to your home or office with ACT!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 7,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 13,
+          "text": "super",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 14,
+          "end": 18,
+          "text": "fast",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 19,
+          "end": 27,
+          "text": "internet",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 28,
+          "end": 35,
+          "text": "benefit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 36,
+          "end": 41,
+          "text": "right",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 42,
+          "end": 44,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 45,
+          "end": 49,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 50,
+          "end": 54,
+          "text": "home",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 55,
+          "end": 57,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 58,
+          "end": 64,
+          "text": "office",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 65,
+          "end": 69,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 70,
+          "end": 73,
+          "text": "ACT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 73,
+          "end": 74,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 75,
+      "end": 120,
+      "text": "Take a 20% CASHBACK when you pay via LazyPay.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 75,
+          "end": 79,
+          "text": "Take",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 80,
+          "end": 81,
+          "text": "a",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 82,
+          "end": 84,
+          "text": "20",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 84,
+          "end": 85,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 86,
+          "end": 94,
+          "text": "CASHBACK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 95,
+          "end": 99,
+          "text": "when",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 100,
+          "end": 103,
+          "text": "you",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 104,
+          "end": 107,
+          "text": "pay",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 108,
+          "end": 111,
+          "text": "via",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 112,
+          "end": 119,
+          "text": "LazyPay",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 119,
+          "end": 120,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 121,
+      "end": 156,
+      "text": "Click here goo.gl/iNbqr1 .T&C apply",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 121,
+          "end": 126,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 127,
+          "end": 131,
+          "text": "here",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 132,
+          "end": 145,
+          "text": "goo.gl/iNbqr1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 146,
+          "end": 150,
+          "text": ".T&C",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 151,
+          "end": 156,
+          "text": "apply",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 70,
+      "end": 73,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 82,
+      "end": 94,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 112,
+      "end": 119,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 132,
+      "end": 145,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 146,
+      "end": 150,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m3",
+        "s1-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

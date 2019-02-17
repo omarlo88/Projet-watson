@@ -1,0 +1,293 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-12",
+  "name": "phonepe2.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Save Big! Get flat Rs.50 cashback* on bills above Rs.200 at Spencer's. Pay with PhonePe! Offer applicable twice per user.www.gs.im/b/?UcNTp62su5G4M ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519803819425,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 9,
+      "text": "Save Big!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Save",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 8,
+          "text": "Big",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 9,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 10,
+      "end": 70,
+      "text": "Get flat Rs.50 cashback* on bills above Rs.200 at Spencer's.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 10,
+          "end": 13,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 14,
+          "end": 18,
+          "text": "flat",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 19,
+          "end": 24,
+          "text": "Rs.50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 25,
+          "end": 33,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 33,
+          "end": 34,
+          "text": "*",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 35,
+          "end": 37,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 38,
+          "end": 43,
+          "text": "bills",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 44,
+          "end": 49,
+          "text": "above",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 50,
+          "end": 56,
+          "text": "Rs.200",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 57,
+          "end": 59,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 60,
+          "end": 67,
+          "text": "Spencer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 67,
+          "end": 69,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 69,
+          "end": 70,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 71,
+      "end": 88,
+      "text": "Pay with PhonePe!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 71,
+          "end": 74,
+          "text": "Pay",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 75,
+          "end": 79,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 80,
+          "end": 87,
+          "text": "PhonePe",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 87,
+          "end": 88,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 89,
+      "end": 147,
+      "text": "Offer applicable twice per user.www.gs.im/b/?UcNTp62su5G4M",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 89,
+          "end": 94,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 95,
+          "end": 105,
+          "text": "applicable",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 106,
+          "end": 111,
+          "text": "twice",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 112,
+          "end": 115,
+          "text": "per",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 116,
+          "end": 147,
+          "text": "user.www.gs.im/b/?UcNTp62su5G4M",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 10,
+      "end": 33,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 35,
+      "end": 56,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 60,
+      "end": 67,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 80,
+      "end": 87,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 116,
+      "end": 147,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

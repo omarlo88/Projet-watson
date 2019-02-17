@@ -1,0 +1,259 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-17",
+  "name": "msg_38.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Enjoy Summer Holidays with MakeMyTrip. Refer queries & earn reward points! For bookings or to refer Whats App/Call us on 9599595609\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519734879657,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 38,
+      "text": "Enjoy Summer Holidays with MakeMyTrip.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Enjoy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 12,
+          "text": "Summer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 13,
+          "end": 21,
+          "text": "Holidays",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 22,
+          "end": 26,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 27,
+          "end": 37,
+          "text": "MakeMyTrip",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 37,
+          "end": 38,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 39,
+      "end": 74,
+      "text": "Refer queries & earn reward points!",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 39,
+          "end": 44,
+          "text": "Refer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 45,
+          "end": 52,
+          "text": "queries",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 53,
+          "end": 54,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 55,
+          "end": 59,
+          "text": "earn",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 60,
+          "end": 66,
+          "text": "reward",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 67,
+          "end": 73,
+          "text": "points",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 73,
+          "end": 74,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 75,
+      "end": 131,
+      "text": "For bookings or to refer Whats App/Call us on 9599595609",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 75,
+          "end": 78,
+          "text": "For",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 79,
+          "end": 87,
+          "text": "bookings",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 88,
+          "end": 90,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 91,
+          "end": 93,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 94,
+          "end": 99,
+          "text": "refer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 100,
+          "end": 105,
+          "text": "Whats",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 106,
+          "end": 109,
+          "text": "App",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 109,
+          "end": 110,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 110,
+          "end": 114,
+          "text": "Call",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 115,
+          "end": 117,
+          "text": "us",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 118,
+          "end": 120,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 121,
+          "end": 131,
+          "text": "9599595609",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 27,
+      "end": 37,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Points",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Points",
+      "begin": 39,
+      "end": 73,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 121,
+      "end": 131,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

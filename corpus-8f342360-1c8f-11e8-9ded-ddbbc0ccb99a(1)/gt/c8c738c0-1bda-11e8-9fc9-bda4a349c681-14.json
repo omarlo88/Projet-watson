@@ -1,0 +1,260 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-14",
+  "name": "fasttrack.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "It pays to be picky!!! Up to 40% off on Fastrack Products.Rush now to your nearest Fastrack Store! T&C* https://goo.gl/wWjTvj ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834996337,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 98,
+      "text": "It pays to be picky!!! Up to 40% off on Fastrack Products.Rush now to your nearest Fastrack Store!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 2,
+          "text": "It",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 3,
+          "end": 7,
+          "text": "pays",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 10,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 11,
+          "end": 13,
+          "text": "be",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 14,
+          "end": 19,
+          "text": "picky",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 19,
+          "end": 22,
+          "text": "!!!",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 23,
+          "end": 25,
+          "text": "Up",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 26,
+          "end": 28,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 29,
+          "end": 31,
+          "text": "40",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 31,
+          "end": 32,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 33,
+          "end": 36,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 37,
+          "end": 39,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 40,
+          "end": 48,
+          "text": "Fastrack",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 49,
+          "end": 62,
+          "text": "Products.Rush",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 63,
+          "end": 66,
+          "text": "now",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 67,
+          "end": 69,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 70,
+          "end": 74,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 75,
+          "end": 82,
+          "text": "nearest",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 83,
+          "end": 91,
+          "text": "Fastrack",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 92,
+          "end": 97,
+          "text": "Store",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 97,
+          "end": 98,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 99,
+      "end": 125,
+      "text": "T&C* https://goo.gl/wWjTvj",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 99,
+          "end": 103,
+          "text": "T&C*",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 104,
+          "end": 125,
+          "text": "https://goo.gl/wWjTvj",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 23,
+      "end": 36,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 40,
+      "end": 62,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 99,
+      "end": 103,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 104,
+      "end": 125,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

@@ -1,0 +1,334 @@
+{
+  "id": "24ccb660-1c74-11e8-909b-b12abc265234-5",
+  "name": "bpitch.txt",
+  "createdDate": 1519814579398,
+  "version": 3,
+  "text": "Valentine's SPL: Big Pitcher offers BBQ Buffet Lunch (46 items spread)+beer staring @549+ tax only. Show SMS to avail Offer till 13th Feb. Call 08045530000 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519836742780,
+  "documentSet": [],
+  "preannotation": [
+    "PRE_SIRE"
+  ],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 99,
+      "text": "Valentine's SPL: Big Pitcher offers BBQ Buffet Lunch (46 items spread)+beer staring @549+ tax only.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 9,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 9,
+          "end": 11,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 12,
+          "end": 15,
+          "text": "SPL",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 15,
+          "end": 16,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 17,
+          "end": 20,
+          "text": "Big",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 21,
+          "end": 28,
+          "text": "Pitcher",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 29,
+          "end": 35,
+          "text": "offers",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 36,
+          "end": 39,
+          "text": "BBQ",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 40,
+          "end": 46,
+          "text": "Buffet",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 47,
+          "end": 52,
+          "text": "Lunch",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 53,
+          "end": 54,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 54,
+          "end": 56,
+          "text": "46",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 57,
+          "end": 62,
+          "text": "items",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 63,
+          "end": 69,
+          "text": "spread",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 69,
+          "end": 70,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 70,
+          "end": 71,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 71,
+          "end": 75,
+          "text": "beer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 76,
+          "end": 83,
+          "text": "staring",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 84,
+          "end": 88,
+          "text": "@549",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 88,
+          "end": 89,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 90,
+          "end": 93,
+          "text": "tax",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 94,
+          "end": 98,
+          "text": "only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 98,
+          "end": 99,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 100,
+      "end": 155,
+      "text": "Show SMS to avail Offer till 13th Feb. Call 08045530000",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 100,
+          "end": 104,
+          "text": "Show",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 105,
+          "end": 108,
+          "text": "SMS",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 109,
+          "end": 111,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 112,
+          "end": 117,
+          "text": "avail",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 118,
+          "end": 123,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 124,
+          "end": 128,
+          "text": "till",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 129,
+          "end": 133,
+          "text": "13th",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 134,
+          "end": 138,
+          "text": "Feb.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 139,
+          "end": 143,
+          "text": "Call",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 144,
+          "end": 155,
+          "text": "08045530000",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Festival_Occasion_Offers",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Festival_Occasion_Offers",
+      "begin": 0,
+      "end": 9,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 36,
+      "end": 93,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 124,
+      "end": 138,
+      "inCoref": false
+    },
+    {
+      "id": "-M1",
+      "properties": {
+        "SIRE_ENTITY_LEVEL": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC",
+        "SIRE_ENTITY_CLASS": "SPC",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_ROLE": "Merchant_Phone"
+      },
+      "type": "Merchant_Phone",
+      "begin": 144,
+      "end": 155,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferhasName",
+      "args": [
+        "s0-m2",
+        "s0-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

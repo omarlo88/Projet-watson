@@ -1,0 +1,366 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-11",
+  "name": "msg_32.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "RITU KUMAR SALE! Last few days to avail additional discounts in our 'End of Season Sale'. Visit any of our stores today to avail upto 70% off. T&C.\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834666101,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 16,
+      "text": "RITU KUMAR SALE!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "RITU",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 10,
+          "text": "KUMAR",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 11,
+          "end": 15,
+          "text": "SALE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 15,
+          "end": 16,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 17,
+      "end": 89,
+      "text": "Last few days to avail additional discounts in our 'End of Season Sale'.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 17,
+          "end": 21,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 22,
+          "end": 25,
+          "text": "few",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 26,
+          "end": 30,
+          "text": "days",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 31,
+          "end": 33,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 34,
+          "end": 39,
+          "text": "avail",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 40,
+          "end": 50,
+          "text": "additional",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 51,
+          "end": 60,
+          "text": "discounts",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 61,
+          "end": 63,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 64,
+          "end": 67,
+          "text": "our",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 68,
+          "end": 69,
+          "text": "'",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 69,
+          "end": 72,
+          "text": "End",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 73,
+          "end": 75,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 76,
+          "end": 82,
+          "text": "Season",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 83,
+          "end": 87,
+          "text": "Sale",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 87,
+          "end": 88,
+          "text": "'",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 88,
+          "end": 89,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 90,
+      "end": 142,
+      "text": "Visit any of our stores today to avail upto 70% off.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 90,
+          "end": 95,
+          "text": "Visit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 96,
+          "end": 99,
+          "text": "any",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 100,
+          "end": 102,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 103,
+          "end": 106,
+          "text": "our",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 107,
+          "end": 113,
+          "text": "stores",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 114,
+          "end": 119,
+          "text": "today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 120,
+          "end": 122,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 123,
+          "end": 128,
+          "text": "avail",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 129,
+          "end": 133,
+          "text": "upto",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 134,
+          "end": 136,
+          "text": "70",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 136,
+          "end": 137,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 138,
+          "end": 141,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 141,
+          "end": 142,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 143,
+      "end": 147,
+      "text": "T&C.",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 143,
+          "end": 147,
+          "text": "T&C.",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 0,
+      "end": 10,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 69,
+      "end": 87,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 114,
+      "end": 119,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 123,
+      "end": 141,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 143,
+      "end": 147,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "OfferhasValidityPeriod",
+      "args": [
+        "s2-m1",
+        "s2-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

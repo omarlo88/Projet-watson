@@ -1,0 +1,353 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-6",
+  "name": "lazy_pay.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Uplifting & Stuffed! You'll never get enough of the warm hugs of comfort food, from Swiggy, delivered at a CASHBACK with LazyPay! Order now: bit.ly/2FAwiL2 .T&C ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834021054,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 20,
+      "text": "Uplifting & Stuffed!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 9,
+          "text": "Uplifting",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 10,
+          "end": 11,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 12,
+          "end": 19,
+          "text": "Stuffed",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 19,
+          "end": 20,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 21,
+      "end": 129,
+      "text": "You'll never get enough of the warm hugs of comfort food, from Swiggy, delivered at a CASHBACK with LazyPay!",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 21,
+          "end": 24,
+          "text": "You",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 24,
+          "end": 27,
+          "text": "'ll",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 28,
+          "end": 33,
+          "text": "never",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 34,
+          "end": 37,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 38,
+          "end": 44,
+          "text": "enough",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 45,
+          "end": 47,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 48,
+          "end": 51,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 52,
+          "end": 56,
+          "text": "warm",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 57,
+          "end": 61,
+          "text": "hugs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 62,
+          "end": 64,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 65,
+          "end": 72,
+          "text": "comfort",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 73,
+          "end": 77,
+          "text": "food",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 77,
+          "end": 78,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 79,
+          "end": 83,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 84,
+          "end": 90,
+          "text": "Swiggy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 90,
+          "end": 91,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t16",
+          "begin": 92,
+          "end": 101,
+          "text": "delivered",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t17",
+          "begin": 102,
+          "end": 104,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t18",
+          "begin": 105,
+          "end": 106,
+          "text": "a",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t19",
+          "begin": 107,
+          "end": 115,
+          "text": "CASHBACK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t20",
+          "begin": 116,
+          "end": 120,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t21",
+          "begin": 121,
+          "end": 128,
+          "text": "LazyPay",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t22",
+          "begin": 128,
+          "end": 129,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 130,
+      "end": 160,
+      "text": "Order now: bit.ly/2FAwiL2 .T&C",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 130,
+          "end": 135,
+          "text": "Order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 136,
+          "end": 139,
+          "text": "now",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 139,
+          "end": 140,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 141,
+          "end": 155,
+          "text": "bit.ly/2FAwiL2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 156,
+          "end": 160,
+          "text": ".T&C",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m6",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 52,
+      "end": 90,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 107,
+      "end": 115,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 121,
+      "end": 128,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 141,
+      "end": 155,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 156,
+      "end": 160,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m4",
+        "s1-m3"
+      ]
+    },
+    {
+      "id": "s1-r2",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s1-m3",
+        "s1-m6"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

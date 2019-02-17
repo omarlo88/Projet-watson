@@ -1,0 +1,340 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-0",
+  "name": "dailyobjects2.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "BIG BANG BOGO! Buy 1 Get 1 Free on Phone Cases, Wallets, Bags, Pouches, Sleeves. Ends Tonight! Shop @ https://www.dailyobjects.com Optout sms \"DB OUT\" 56161 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834976356,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 14,
+      "text": "BIG BANG BOGO!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "BIG",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 8,
+          "text": "BANG",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 9,
+          "end": 13,
+          "text": "BOGO",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 13,
+          "end": 14,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 15,
+      "end": 80,
+      "text": "Buy 1 Get 1 Free on Phone Cases, Wallets, Bags, Pouches, Sleeves.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 15,
+          "end": 18,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 19,
+          "end": 20,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 21,
+          "end": 24,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 25,
+          "end": 26,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 27,
+          "end": 31,
+          "text": "Free",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 32,
+          "end": 34,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 35,
+          "end": 40,
+          "text": "Phone",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 41,
+          "end": 46,
+          "text": "Cases",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 46,
+          "end": 47,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 48,
+          "end": 55,
+          "text": "Wallets",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 55,
+          "end": 56,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 57,
+          "end": 61,
+          "text": "Bags",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 61,
+          "end": 62,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 63,
+          "end": 70,
+          "text": "Pouches",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 70,
+          "end": 71,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 72,
+          "end": 79,
+          "text": "Sleeves",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t16",
+          "begin": 79,
+          "end": 80,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 81,
+      "end": 94,
+      "text": "Ends Tonight!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 81,
+          "end": 85,
+          "text": "Ends",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 86,
+          "end": 93,
+          "text": "Tonight",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 93,
+          "end": 94,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 95,
+      "end": 156,
+      "text": "Shop @ https://www.dailyobjects.com Optout sms \"DB OUT\" 56161",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 95,
+          "end": 99,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 100,
+          "end": 101,
+          "text": "@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 102,
+          "end": 130,
+          "text": "https://www.dailyobjects.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 131,
+          "end": 137,
+          "text": "Optout",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 138,
+          "end": 141,
+          "text": "sms",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t5",
+          "begin": 142,
+          "end": 143,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t6",
+          "begin": 143,
+          "end": 145,
+          "text": "DB",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t7",
+          "begin": 146,
+          "end": 149,
+          "text": "OUT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t8",
+          "begin": 149,
+          "end": 150,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t9",
+          "begin": 151,
+          "end": 156,
+          "text": "56161",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 15,
+      "end": 31,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 35,
+      "end": 79,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 102,
+      "end": 130,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

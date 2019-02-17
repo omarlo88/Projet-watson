@@ -1,0 +1,365 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-4",
+  "name": "msg_25.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Last 24 hrs of Sale! Lifestyle FLAT 50% +EXTRA 10% OFF ! Shop online at Lifestylestores.com & Get FLAT 50-60% on all Brands -Use code- EXTRA10 - Online only\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834449787,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 20,
+      "text": "Last 24 hrs of Sale!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 7,
+          "text": "24",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 11,
+          "text": "hrs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 12,
+          "end": 14,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 15,
+          "end": 19,
+          "text": "Sale",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 19,
+          "end": 20,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 21,
+      "end": 56,
+      "text": "Lifestyle FLAT 50% +EXTRA 10% OFF !",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 21,
+          "end": 30,
+          "text": "Lifestyle",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 31,
+          "end": 35,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 36,
+          "end": 38,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 38,
+          "end": 39,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 40,
+          "end": 41,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 41,
+          "end": 46,
+          "text": "EXTRA",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 47,
+          "end": 49,
+          "text": "10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 49,
+          "end": 50,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 51,
+          "end": 54,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 55,
+          "end": 56,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 57,
+      "end": 156,
+      "text": "Shop online at Lifestylestores.com & Get FLAT 50-60% on all Brands -Use code- EXTRA10 - Online only",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 57,
+          "end": 61,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 62,
+          "end": 68,
+          "text": "online",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 69,
+          "end": 71,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 72,
+          "end": 91,
+          "text": "Lifestylestores.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 92,
+          "end": 93,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 94,
+          "end": 97,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 98,
+          "end": 102,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 103,
+          "end": 108,
+          "text": "50-60",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 108,
+          "end": 109,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 110,
+          "end": 112,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 113,
+          "end": 116,
+          "text": "all",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 117,
+          "end": 123,
+          "text": "Brands",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 124,
+          "end": 128,
+          "text": "-Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t13",
+          "begin": 129,
+          "end": 133,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t14",
+          "begin": 133,
+          "end": 134,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t15",
+          "begin": 135,
+          "end": 142,
+          "text": "EXTRA10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t16",
+          "begin": 143,
+          "end": 144,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t17",
+          "begin": 145,
+          "end": 151,
+          "text": "Online",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t18",
+          "begin": 152,
+          "end": 156,
+          "text": "only",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 21,
+      "end": 30,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 31,
+      "end": 54,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 72,
+      "end": 91,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 94,
+      "end": 109,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 135,
+      "end": 142,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

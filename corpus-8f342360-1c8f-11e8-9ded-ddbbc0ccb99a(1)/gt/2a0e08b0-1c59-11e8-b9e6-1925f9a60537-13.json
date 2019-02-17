@@ -1,0 +1,399 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-13",
+  "name": "paytm2.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Order Placed: We have received your order for Wildcraft Continuum 53L Laptop backpack. It will be delivered by Wed, 13 Dec. Applicable cashback will be given within 24 hrs of shipment. Download the new Paytm Mall App for great offers http://pytm.ml/upgrade",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519803781136,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 86,
+      "text": "Order Placed: We have received your order for Wildcraft Continuum 53L Laptop backpack.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 12,
+          "text": "Placed",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 12,
+          "end": 13,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 14,
+          "end": 16,
+          "text": "We",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 17,
+          "end": 21,
+          "text": "have",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 22,
+          "end": 30,
+          "text": "received",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 31,
+          "end": 35,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 36,
+          "end": 41,
+          "text": "order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 42,
+          "end": 45,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 46,
+          "end": 55,
+          "text": "Wildcraft",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 56,
+          "end": 65,
+          "text": "Continuum",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 66,
+          "end": 69,
+          "text": "53L",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 70,
+          "end": 76,
+          "text": "Laptop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 77,
+          "end": 85,
+          "text": "backpack",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 85,
+          "end": 86,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 87,
+      "end": 184,
+      "text": "It will be delivered by Wed, 13 Dec. Applicable cashback will be given within 24 hrs of shipment.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 87,
+          "end": 89,
+          "text": "It",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 90,
+          "end": 94,
+          "text": "will",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 95,
+          "end": 97,
+          "text": "be",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 98,
+          "end": 107,
+          "text": "delivered",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 108,
+          "end": 110,
+          "text": "by",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 111,
+          "end": 114,
+          "text": "Wed",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 114,
+          "end": 115,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 116,
+          "end": 118,
+          "text": "13",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 119,
+          "end": 123,
+          "text": "Dec.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 124,
+          "end": 134,
+          "text": "Applicable",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 135,
+          "end": 143,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 144,
+          "end": 148,
+          "text": "will",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 149,
+          "end": 151,
+          "text": "be",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 152,
+          "end": 157,
+          "text": "given",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 158,
+          "end": 164,
+          "text": "within",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 165,
+          "end": 167,
+          "text": "24",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t16",
+          "begin": 168,
+          "end": 171,
+          "text": "hrs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t17",
+          "begin": 172,
+          "end": 174,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t18",
+          "begin": 175,
+          "end": 183,
+          "text": "shipment",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t19",
+          "begin": 183,
+          "end": 184,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 185,
+      "end": 256,
+      "text": "Download the new Paytm Mall App for great offers http://pytm.ml/upgrade",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 185,
+          "end": 193,
+          "text": "Download",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 194,
+          "end": 197,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 198,
+          "end": 201,
+          "text": "new",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 202,
+          "end": 207,
+          "text": "Paytm",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 208,
+          "end": 212,
+          "text": "Mall",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 213,
+          "end": 216,
+          "text": "App",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 217,
+          "end": 220,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 221,
+          "end": 226,
+          "text": "great",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 227,
+          "end": 233,
+          "text": "offers",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 234,
+          "end": 256,
+          "text": "http://pytm.ml/upgrade",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 46,
+      "end": 85,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Cashback",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Cashback",
+      "begin": 124,
+      "end": 183,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 234,
+      "end": 256,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

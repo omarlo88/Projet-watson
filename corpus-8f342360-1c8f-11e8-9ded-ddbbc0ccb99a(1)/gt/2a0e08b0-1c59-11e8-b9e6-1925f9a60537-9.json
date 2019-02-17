@@ -1,0 +1,310 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-9",
+  "name": "bigbasket.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "bigbasket wishes you Happy Rose Day! Send Roses in 90 minutes @Flat 20% off. Valentine's special combos starting @Rs.299. Click https://l.bigbasket.com/v-store ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835414606,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 36,
+      "text": "bigbasket wishes you Happy Rose Day!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 9,
+          "text": "bigbasket",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 10,
+          "end": 16,
+          "text": "wishes",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 17,
+          "end": 20,
+          "text": "you",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 21,
+          "end": 26,
+          "text": "Happy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 27,
+          "end": 31,
+          "text": "Rose",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 32,
+          "end": 35,
+          "text": "Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 35,
+          "end": 36,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 37,
+      "end": 76,
+      "text": "Send Roses in 90 minutes @Flat 20% off.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 37,
+          "end": 41,
+          "text": "Send",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 42,
+          "end": 47,
+          "text": "Roses",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 48,
+          "end": 50,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 51,
+          "end": 53,
+          "text": "90",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 54,
+          "end": 61,
+          "text": "minutes",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 62,
+          "end": 67,
+          "text": "@Flat",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 68,
+          "end": 70,
+          "text": "20",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 70,
+          "end": 71,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 72,
+          "end": 75,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 75,
+          "end": 76,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 77,
+      "end": 121,
+      "text": "Valentine's special combos starting @Rs.299.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 77,
+          "end": 86,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 86,
+          "end": 88,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 89,
+          "end": 96,
+          "text": "special",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 97,
+          "end": 103,
+          "text": "combos",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 104,
+          "end": 112,
+          "text": "starting",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 113,
+          "end": 120,
+          "text": "@Rs.299",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 120,
+          "end": 121,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 122,
+      "end": 159,
+      "text": "Click https://l.bigbasket.com/v-store",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 122,
+          "end": 127,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 128,
+          "end": 159,
+          "text": "https://l.bigbasket.com/v-store",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 0,
+      "end": 9,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 37,
+      "end": 75,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Festival_Occasion_Offers",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Festival_Occasion_Offers",
+      "begin": 77,
+      "end": 86,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 89,
+      "end": 120,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 128,
+      "end": 159,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "OfferhasName",
+      "args": [
+        "s2-m2",
+        "s2-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

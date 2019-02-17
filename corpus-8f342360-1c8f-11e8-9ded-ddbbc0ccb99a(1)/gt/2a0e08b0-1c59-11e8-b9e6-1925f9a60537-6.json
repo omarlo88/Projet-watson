@@ -1,0 +1,316 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-6",
+  "name": "jabong2.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Rs.400 added to your JABONG account linked with kogh*****@gmail.com. Get FLAT Rs.400 OFF (Min order Rs 1500) Use code: SPLFEB400 http://msg.mn/86v0Gd ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835527326,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 68,
+      "text": "Rs.400 added to your JABONG account linked with kogh*****@gmail.com.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 6,
+          "text": "Rs.400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 7,
+          "end": 12,
+          "text": "added",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 13,
+          "end": 15,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 16,
+          "end": 20,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 21,
+          "end": 27,
+          "text": "JABONG",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 28,
+          "end": 35,
+          "text": "account",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 36,
+          "end": 42,
+          "text": "linked",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 43,
+          "end": 47,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 48,
+          "end": 57,
+          "text": "kogh*****",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 57,
+          "end": 67,
+          "text": "@gmail.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 67,
+          "end": 68,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 69,
+      "end": 149,
+      "text": "Get FLAT Rs.400 OFF (Min order Rs 1500) Use code: SPLFEB400 http://msg.mn/86v0Gd",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 69,
+          "end": 72,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 73,
+          "end": 77,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 78,
+          "end": 84,
+          "text": "Rs.400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 85,
+          "end": 88,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 89,
+          "end": 90,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 90,
+          "end": 93,
+          "text": "Min",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 94,
+          "end": 99,
+          "text": "order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 100,
+          "end": 102,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 103,
+          "end": 107,
+          "text": "1500",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 107,
+          "end": 108,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 109,
+          "end": 112,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 113,
+          "end": 117,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 117,
+          "end": 118,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 119,
+          "end": 128,
+          "text": "SPLFEB400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 129,
+          "end": 149,
+          "text": "http://msg.mn/86v0Gd",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 0,
+      "end": 6,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 21,
+      "end": 27,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 69,
+      "end": 88,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 90,
+      "end": 107,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 119,
+      "end": 128,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 129,
+      "end": 149,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    },
+    {
+      "id": "s1-r2",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s1-m1",
+        "s1-m3"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

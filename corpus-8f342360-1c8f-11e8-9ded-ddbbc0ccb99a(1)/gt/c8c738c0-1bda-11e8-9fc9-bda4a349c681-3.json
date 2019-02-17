@@ -1,0 +1,272 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-3",
+  "name": "znckin.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "Znack, An exclusive app for ordering sweets, snacks & cakes online. Free delivery&Rs.50 Off. Download app https://goo.gl/Br7VBB or visit https://goo.gl/s1SdX9 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519749932226,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 67,
+      "text": "Znack, An exclusive app for ordering sweets, snacks & cakes online.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Znack",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 6,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 7,
+          "end": 9,
+          "text": "An",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 10,
+          "end": 19,
+          "text": "exclusive",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 23,
+          "text": "app",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 24,
+          "end": 27,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 28,
+          "end": 36,
+          "text": "ordering",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 37,
+          "end": 43,
+          "text": "sweets",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 43,
+          "end": 44,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 45,
+          "end": 51,
+          "text": "snacks",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 52,
+          "end": 53,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 54,
+          "end": 59,
+          "text": "cakes",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 60,
+          "end": 66,
+          "text": "online",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 66,
+          "end": 67,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 68,
+      "end": 92,
+      "text": "Free delivery&Rs.50 Off.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 68,
+          "end": 72,
+          "text": "Free",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 73,
+          "end": 81,
+          "text": "delivery",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 81,
+          "end": 87,
+          "text": "&Rs.50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 88,
+          "end": 91,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 91,
+          "end": 92,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 93,
+      "end": 158,
+      "text": "Download app https://goo.gl/Br7VBB or visit https://goo.gl/s1SdX9",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 93,
+          "end": 101,
+          "text": "Download",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 102,
+          "end": 105,
+          "text": "app",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 106,
+          "end": 127,
+          "text": "https://goo.gl/Br7VBB",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 128,
+          "end": 130,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 131,
+          "end": 136,
+          "text": "visit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 137,
+          "end": 158,
+          "text": "https://goo.gl/s1SdX9",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 0,
+      "end": 5,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 68,
+      "end": 91,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 106,
+      "end": 127,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 137,
+      "end": 158,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

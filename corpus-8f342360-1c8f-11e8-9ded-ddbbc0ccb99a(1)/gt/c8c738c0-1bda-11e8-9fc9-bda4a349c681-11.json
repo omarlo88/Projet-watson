@@ -1,0 +1,692 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-11",
+  "name": "strbzr.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "Need ideas to gift this Valentine's? SKYE, a TATA brand, launches its range of Body Sprays. Fall in love with the 3 refreshing fragrances for women & men. Pick any 2 for Rs160! WOW Offer: Shop for Cadbury Silk & get Rs100 CASHBACK (min shopping Rs999+).Cashback as Clubcard pts. Rush to STAR today! T&C - goo.gl/AR9Xpc ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835199200,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 36,
+      "text": "Need ideas to gift this Valentine's?",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Need",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 10,
+          "text": "ideas",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 11,
+          "end": 13,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 14,
+          "end": 18,
+          "text": "gift",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 19,
+          "end": 23,
+          "text": "this",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 24,
+          "end": 33,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 33,
+          "end": 35,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 35,
+          "end": 36,
+          "text": "?",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 37,
+      "end": 91,
+      "text": "SKYE, a TATA brand, launches its range of Body Sprays.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 37,
+          "end": 41,
+          "text": "SKYE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 41,
+          "end": 42,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 43,
+          "end": 44,
+          "text": "a",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 45,
+          "end": 49,
+          "text": "TATA",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 50,
+          "end": 55,
+          "text": "brand",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 55,
+          "end": 56,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 57,
+          "end": 65,
+          "text": "launches",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 66,
+          "end": 69,
+          "text": "its",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 70,
+          "end": 75,
+          "text": "range",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 76,
+          "end": 78,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 79,
+          "end": 83,
+          "text": "Body",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 84,
+          "end": 90,
+          "text": "Sprays",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 90,
+          "end": 91,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 92,
+      "end": 154,
+      "text": "Fall in love with the 3 refreshing fragrances for women & men.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 92,
+          "end": 96,
+          "text": "Fall",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 97,
+          "end": 99,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 100,
+          "end": 104,
+          "text": "love",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 105,
+          "end": 109,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 110,
+          "end": 113,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 114,
+          "end": 115,
+          "text": "3",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 116,
+          "end": 126,
+          "text": "refreshing",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 127,
+          "end": 137,
+          "text": "fragrances",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 138,
+          "end": 141,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 142,
+          "end": 147,
+          "text": "women",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 148,
+          "end": 149,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 150,
+          "end": 153,
+          "text": "men",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 153,
+          "end": 154,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 155,
+      "end": 176,
+      "text": "Pick any 2 for Rs160!",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 155,
+          "end": 159,
+          "text": "Pick",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 160,
+          "end": 163,
+          "text": "any",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 164,
+          "end": 165,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 166,
+          "end": 169,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 170,
+          "end": 175,
+          "text": "Rs160",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t5",
+          "begin": 175,
+          "end": 176,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "begin": 177,
+      "end": 253,
+      "text": "WOW Offer: Shop for Cadbury Silk & get Rs100 CASHBACK (min shopping Rs999+).",
+      "tokens": [
+        {
+          "id": "s4-t0",
+          "begin": 177,
+          "end": 180,
+          "text": "WOW",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t1",
+          "begin": 181,
+          "end": 186,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t2",
+          "begin": 186,
+          "end": 187,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t3",
+          "begin": 188,
+          "end": 192,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t4",
+          "begin": 193,
+          "end": 196,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t5",
+          "begin": 197,
+          "end": 204,
+          "text": "Cadbury",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t6",
+          "begin": 205,
+          "end": 209,
+          "text": "Silk",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t7",
+          "begin": 210,
+          "end": 211,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t8",
+          "begin": 212,
+          "end": 215,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t9",
+          "begin": 216,
+          "end": 221,
+          "text": "Rs100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t10",
+          "begin": 222,
+          "end": 230,
+          "text": "CASHBACK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t11",
+          "begin": 231,
+          "end": 232,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t12",
+          "begin": 232,
+          "end": 235,
+          "text": "min",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t13",
+          "begin": 236,
+          "end": 244,
+          "text": "shopping",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t14",
+          "begin": 245,
+          "end": 250,
+          "text": "Rs999",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t15",
+          "begin": 250,
+          "end": 251,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t16",
+          "begin": 251,
+          "end": 252,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t17",
+          "begin": 252,
+          "end": 253,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "begin": 253,
+      "end": 278,
+      "text": "Cashback as Clubcard pts.",
+      "tokens": [
+        {
+          "id": "s5-t0",
+          "begin": 253,
+          "end": 261,
+          "text": "Cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s5-t1",
+          "begin": 262,
+          "end": 264,
+          "text": "as",
+          "whiteSpace": false
+        },
+        {
+          "id": "s5-t2",
+          "begin": 265,
+          "end": 273,
+          "text": "Clubcard",
+          "whiteSpace": false
+        },
+        {
+          "id": "s5-t3",
+          "begin": 274,
+          "end": 277,
+          "text": "pts",
+          "whiteSpace": false
+        },
+        {
+          "id": "s5-t4",
+          "begin": 277,
+          "end": 278,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "begin": 279,
+      "end": 298,
+      "text": "Rush to STAR today!",
+      "tokens": [
+        {
+          "id": "s6-t0",
+          "begin": 279,
+          "end": 283,
+          "text": "Rush",
+          "whiteSpace": false
+        },
+        {
+          "id": "s6-t1",
+          "begin": 284,
+          "end": 286,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s6-t2",
+          "begin": 287,
+          "end": 291,
+          "text": "STAR",
+          "whiteSpace": false
+        },
+        {
+          "id": "s6-t3",
+          "begin": 292,
+          "end": 297,
+          "text": "today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s6-t4",
+          "begin": 297,
+          "end": 298,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "begin": 299,
+      "end": 318,
+      "text": "T&C - goo.gl/AR9Xpc",
+      "tokens": [
+        {
+          "id": "s7-t0",
+          "begin": 299,
+          "end": 302,
+          "text": "T&C",
+          "whiteSpace": false
+        },
+        {
+          "id": "s7-t1",
+          "begin": 303,
+          "end": 304,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s7-t2",
+          "begin": 305,
+          "end": 318,
+          "text": "goo.gl/AR9Xpc",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 45,
+      "end": 49,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 155,
+      "end": 175,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 197,
+      "end": 209,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 212,
+      "end": 230,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 232,
+      "end": 250,
+      "inCoref": false
+    },
+    {
+      "id": "s7-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 299,
+      "end": 302,
+      "inCoref": false
+    },
+    {
+      "id": "s7-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 305,
+      "end": 318,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s4-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s4-m1",
+        "s4-m3"
+      ]
+    },
+    {
+      "id": "s4-r2",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s4-m1",
+        "s4-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

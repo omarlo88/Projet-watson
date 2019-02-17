@@ -1,0 +1,351 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-3",
+  "name": "dailyobjects.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Offer Of The Month! Buy Any 3 Designer/Custom Phone Cases @just Rs 999. Today Only. Code: VDAY. Shop @ https://www.dailyobjects.com Optout sms \"DB OUT\" 56161 ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519726416685,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 19,
+      "text": "Offer Of The Month!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 8,
+          "text": "Of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 9,
+          "end": 12,
+          "text": "The",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 13,
+          "end": 18,
+          "text": "Month",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 18,
+          "end": 19,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 20,
+      "end": 71,
+      "text": "Buy Any 3 Designer/Custom Phone Cases @just Rs 999.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 20,
+          "end": 23,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 24,
+          "end": 27,
+          "text": "Any",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 28,
+          "end": 29,
+          "text": "3",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 30,
+          "end": 38,
+          "text": "Designer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 38,
+          "end": 39,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 39,
+          "end": 45,
+          "text": "Custom",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 46,
+          "end": 51,
+          "text": "Phone",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 52,
+          "end": 57,
+          "text": "Cases",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 58,
+          "end": 63,
+          "text": "@just",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 64,
+          "end": 66,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 67,
+          "end": 70,
+          "text": "999",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 70,
+          "end": 71,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 72,
+      "end": 83,
+      "text": "Today Only.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 72,
+          "end": 77,
+          "text": "Today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 78,
+          "end": 82,
+          "text": "Only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 82,
+          "end": 83,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 84,
+      "end": 95,
+      "text": "Code: VDAY.",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 84,
+          "end": 88,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 88,
+          "end": 89,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 90,
+          "end": 94,
+          "text": "VDAY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 94,
+          "end": 95,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "begin": 96,
+      "end": 157,
+      "text": "Shop @ https://www.dailyobjects.com Optout sms \"DB OUT\" 56161",
+      "tokens": [
+        {
+          "id": "s4-t0",
+          "begin": 96,
+          "end": 100,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t1",
+          "begin": 101,
+          "end": 102,
+          "text": "@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t2",
+          "begin": 103,
+          "end": 131,
+          "text": "https://www.dailyobjects.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t3",
+          "begin": 132,
+          "end": 138,
+          "text": "Optout",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t4",
+          "begin": 139,
+          "end": 142,
+          "text": "sms",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t5",
+          "begin": 143,
+          "end": 144,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t6",
+          "begin": 144,
+          "end": 146,
+          "text": "DB",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t7",
+          "begin": 147,
+          "end": 150,
+          "text": "OUT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t8",
+          "begin": 150,
+          "end": 151,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t9",
+          "begin": 152,
+          "end": 157,
+          "text": "56161",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 20,
+      "end": 70,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 72,
+      "end": 82,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 90,
+      "end": 94,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 103,
+      "end": 131,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

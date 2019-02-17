@@ -1,0 +1,295 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-19",
+  "name": "lenskart2.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Last Day of Lenskart's Biggest Sale Buy1 Get1 + 1000 off Use Code: GRAND1000 At w.lenskart.com/s/CfJEvL/Wu9rL9 or Find store: lenskart.com/s Optout LENS 567678",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835584104,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 159,
+      "text": "Last Day of Lenskart's Biggest Sale Buy1 Get1 + 1000 off Use Code: GRAND1000 At w.lenskart.com/s/CfJEvL/Wu9rL9 or Find store: lenskart.com/s Optout LENS 567678",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 8,
+          "text": "Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 9,
+          "end": 11,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 12,
+          "end": 20,
+          "text": "Lenskart",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 22,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 23,
+          "end": 30,
+          "text": "Biggest",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 31,
+          "end": 35,
+          "text": "Sale",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 36,
+          "end": 40,
+          "text": "Buy1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 41,
+          "end": 45,
+          "text": "Get1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 46,
+          "end": 47,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 48,
+          "end": 52,
+          "text": "1000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 53,
+          "end": 56,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 57,
+          "end": 60,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 61,
+          "end": 65,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 65,
+          "end": 66,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 67,
+          "end": 76,
+          "text": "GRAND1000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 77,
+          "end": 79,
+          "text": "At",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 80,
+          "end": 110,
+          "text": "w.lenskart.com/s/CfJEvL/Wu9rL9",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 111,
+          "end": 113,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 114,
+          "end": 118,
+          "text": "Find",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 119,
+          "end": 124,
+          "text": "store",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 124,
+          "end": 125,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 126,
+          "end": 140,
+          "text": "lenskart.com/s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 141,
+          "end": 147,
+          "text": "Optout",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 148,
+          "end": 152,
+          "text": "LENS",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 153,
+          "end": 159,
+          "text": "567678",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 12,
+      "end": 20,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 36,
+      "end": 52,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 67,
+      "end": 76,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 80,
+      "end": 110,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 126,
+      "end": 140,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s0-m2",
+        "s0-m3"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

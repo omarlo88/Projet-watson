@@ -1,0 +1,315 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-18",
+  "name": "floweraura.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "This Rose Day, Get FLAT Rs. 100 Off. Let your love bloom with gorgeous Red Roses from FlowerAura. Code: RD100, Same Day Delivery. http://msg.gd/s/UyJWQX/yJheNK ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519803279270,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 36,
+      "text": "This Rose Day, Get FLAT Rs. 100 Off.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "This",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 9,
+          "text": "Rose",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 10,
+          "end": 13,
+          "text": "Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 13,
+          "end": 14,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 15,
+          "end": 18,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 19,
+          "end": 23,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 24,
+          "end": 27,
+          "text": "Rs.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 28,
+          "end": 31,
+          "text": "100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 32,
+          "end": 35,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 35,
+          "end": 36,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 37,
+      "end": 97,
+      "text": "Let your love bloom with gorgeous Red Roses from FlowerAura.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 37,
+          "end": 40,
+          "text": "Let",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 41,
+          "end": 45,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 46,
+          "end": 50,
+          "text": "love",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 51,
+          "end": 56,
+          "text": "bloom",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 57,
+          "end": 61,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 62,
+          "end": 70,
+          "text": "gorgeous",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 71,
+          "end": 74,
+          "text": "Red",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 75,
+          "end": 80,
+          "text": "Roses",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 81,
+          "end": 85,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 86,
+          "end": 96,
+          "text": "FlowerAura",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 96,
+          "end": 97,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 98,
+      "end": 129,
+      "text": "Code: RD100, Same Day Delivery.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 98,
+          "end": 102,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 102,
+          "end": 103,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 104,
+          "end": 109,
+          "text": "RD100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 109,
+          "end": 110,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 111,
+          "end": 115,
+          "text": "Same",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 116,
+          "end": 119,
+          "text": "Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 120,
+          "end": 128,
+          "text": "Delivery",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 128,
+          "end": 129,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 130,
+      "end": 159,
+      "text": "http://msg.gd/s/UyJWQX/yJheNK",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 130,
+          "end": 159,
+          "text": "http://msg.gd/s/UyJWQX/yJheNK",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 15,
+      "end": 35,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 86,
+      "end": 96,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 104,
+      "end": 109,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 130,
+      "end": 159,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

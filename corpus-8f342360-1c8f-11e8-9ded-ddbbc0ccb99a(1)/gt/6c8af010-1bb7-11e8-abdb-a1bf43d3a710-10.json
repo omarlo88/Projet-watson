@@ -1,0 +1,303 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-10",
+  "name": "msg_31.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "#daretodump ur current pizza & start a steamy relationship with pizza hut's pan pizza #thinkpizzathinkpizzahut get Rs 100 Off on 400 this Valentine T & C Apply.\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834647411,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 160,
+      "text": "#daretodump ur current pizza & start a steamy relationship with pizza hut's pan pizza #thinkpizzathinkpizzahut get Rs 100 Off on 400 this Valentine T & C Apply.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 11,
+          "text": "#daretodump",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 12,
+          "end": 14,
+          "text": "ur",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 15,
+          "end": 22,
+          "text": "current",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 23,
+          "end": 28,
+          "text": "pizza",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 29,
+          "end": 30,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 31,
+          "end": 36,
+          "text": "start",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 37,
+          "end": 38,
+          "text": "a",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 39,
+          "end": 45,
+          "text": "steamy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 46,
+          "end": 58,
+          "text": "relationship",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 59,
+          "end": 63,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 64,
+          "end": 69,
+          "text": "pizza",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 70,
+          "end": 73,
+          "text": "hut",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 73,
+          "end": 75,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 76,
+          "end": 79,
+          "text": "pan",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 80,
+          "end": 85,
+          "text": "pizza",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 86,
+          "end": 110,
+          "text": "#thinkpizzathinkpizzahut",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 111,
+          "end": 114,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 115,
+          "end": 117,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 118,
+          "end": 121,
+          "text": "100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 122,
+          "end": 125,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 126,
+          "end": 128,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 129,
+          "end": 132,
+          "text": "400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 133,
+          "end": 137,
+          "text": "this",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 138,
+          "end": 147,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 148,
+          "end": 149,
+          "text": "T",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 150,
+          "end": 151,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t26",
+          "begin": 152,
+          "end": 153,
+          "text": "C",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t27",
+          "begin": 154,
+          "end": 159,
+          "text": "Apply",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t28",
+          "begin": 159,
+          "end": 160,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 64,
+      "end": 73,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 111,
+      "end": 132,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Festival_Occasion_Offers",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Festival_Occasion_Offers",
+      "begin": 138,
+      "end": 147,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 148,
+      "end": 153,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferhasName",
+      "args": [
+        "s0-m2",
+        "s0-m4"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

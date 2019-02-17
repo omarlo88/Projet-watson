@@ -1,0 +1,358 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-0",
+  "name": "reliancemarkets1.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "Great Deals at India ka Market- Reliance Market Erode! Tomato Country at Rs.8/Kg(Market Rate 15/Kg)Click http://rmkt.in/46w1jM for more.Only Today!T&C ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835393069,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 54,
+      "text": "Great Deals at India ka Market- Reliance Market Erode!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Great",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 11,
+          "text": "Deals",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 12,
+          "end": 14,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 15,
+          "end": 20,
+          "text": "India",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 21,
+          "end": 23,
+          "text": "ka",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 24,
+          "end": 30,
+          "text": "Market",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 30,
+          "end": 31,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 32,
+          "end": 40,
+          "text": "Reliance",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 41,
+          "end": 47,
+          "text": "Market",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 48,
+          "end": 53,
+          "text": "Erode",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 53,
+          "end": 54,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 55,
+      "end": 136,
+      "text": "Tomato Country at Rs.8/Kg(Market Rate 15/Kg)Click http://rmkt.in/46w1jM for more.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 55,
+          "end": 61,
+          "text": "Tomato",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 62,
+          "end": 69,
+          "text": "Country",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 70,
+          "end": 72,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 73,
+          "end": 80,
+          "text": "Rs.8/Kg",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 80,
+          "end": 81,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 81,
+          "end": 87,
+          "text": "Market",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 88,
+          "end": 92,
+          "text": "Rate",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 93,
+          "end": 95,
+          "text": "15",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 95,
+          "end": 96,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 96,
+          "end": 98,
+          "text": "Kg",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 98,
+          "end": 99,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 99,
+          "end": 104,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 105,
+          "end": 126,
+          "text": "http://rmkt.in/46w1jM",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 127,
+          "end": 130,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 131,
+          "end": 135,
+          "text": "more",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 135,
+          "end": 136,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 136,
+      "end": 147,
+      "text": "Only Today!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 136,
+          "end": 140,
+          "text": "Only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 141,
+          "end": 146,
+          "text": "Today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 146,
+          "end": 147,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 147,
+      "end": 150,
+      "text": "T&C",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 147,
+          "end": 150,
+          "text": "T&C",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 32,
+      "end": 47,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 55,
+      "end": 69,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 73,
+      "end": 98,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 105,
+      "end": 126,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 141,
+      "end": 146,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 147,
+      "end": 150,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s1-m2",
+        "s1-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

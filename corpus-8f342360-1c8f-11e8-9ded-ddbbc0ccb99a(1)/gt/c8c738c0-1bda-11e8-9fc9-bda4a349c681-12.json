@@ -1,0 +1,330 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-12",
+  "name": "bigbazaar.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "Bonus Weekend @BigBazaar/fbb Bangalore Rs300 INSTANT OFF on Rs3000 bill+PAYBACK Pts from 20-22 Oct Code 913363319560 To optout, sms OPTOUT to 9773597735 TnC",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834934824,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 156,
+      "text": "Bonus Weekend @BigBazaar/fbb Bangalore Rs300 INSTANT OFF on Rs3000 bill+PAYBACK Pts from 20-22 Oct Code 913363319560 To optout, sms OPTOUT to 9773597735 TnC",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Bonus",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 13,
+          "text": "Weekend",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 14,
+          "end": 28,
+          "text": "@BigBazaar/fbb",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 29,
+          "end": 38,
+          "text": "Bangalore",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 39,
+          "end": 44,
+          "text": "Rs300",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 45,
+          "end": 52,
+          "text": "INSTANT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 53,
+          "end": 56,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 57,
+          "end": 59,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 60,
+          "end": 66,
+          "text": "Rs3000",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 67,
+          "end": 71,
+          "text": "bill",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 71,
+          "end": 72,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 72,
+          "end": 79,
+          "text": "PAYBACK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 80,
+          "end": 83,
+          "text": "Pts",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 84,
+          "end": 88,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 89,
+          "end": 94,
+          "text": "20-22",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 95,
+          "end": 98,
+          "text": "Oct",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 99,
+          "end": 103,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 104,
+          "end": 116,
+          "text": "913363319560",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 117,
+          "end": 119,
+          "text": "To",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 120,
+          "end": 126,
+          "text": "optout",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 126,
+          "end": 127,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 128,
+          "end": 131,
+          "text": "sms",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 132,
+          "end": 138,
+          "text": "OPTOUT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 139,
+          "end": 141,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 142,
+          "end": 152,
+          "text": "9773597735",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 153,
+          "end": 156,
+          "text": "TnC",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 39,
+      "end": 56,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 57,
+      "end": 71,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Points",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Points",
+      "begin": 72,
+      "end": 83,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 89,
+      "end": 98,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 104,
+      "end": 116,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m6",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_Phone",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_Phone",
+      "begin": 142,
+      "end": 152,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m7",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 153,
+      "end": 156,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "OfferhasValidityPeriod",
+      "args": [
+        "s0-m1",
+        "s0-m4"
+      ]
+    },
+    {
+      "id": "s0-r3",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s0-m1",
+        "s0-m5"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

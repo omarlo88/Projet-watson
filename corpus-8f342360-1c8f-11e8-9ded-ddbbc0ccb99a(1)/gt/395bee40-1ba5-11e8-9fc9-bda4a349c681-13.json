@@ -1,0 +1,292 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-13",
+  "name": "phonepe.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Hurry! Get flat 50% Cashback* on your 1st order at KFC this month. Offer Applicable for all users. www.gs.im/b/?oeHvSGbbB9eKt ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834144868,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 6,
+      "text": "Hurry!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Hurry",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 6,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 7,
+      "end": 66,
+      "text": "Get flat 50% Cashback* on your 1st order at KFC this month.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 7,
+          "end": 10,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 11,
+          "end": 15,
+          "text": "flat",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 16,
+          "end": 18,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 18,
+          "end": 19,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 20,
+          "end": 28,
+          "text": "Cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 28,
+          "end": 29,
+          "text": "*",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 30,
+          "end": 32,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 33,
+          "end": 37,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 38,
+          "end": 41,
+          "text": "1st",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 42,
+          "end": 47,
+          "text": "order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 48,
+          "end": 50,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 51,
+          "end": 54,
+          "text": "KFC",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 55,
+          "end": 59,
+          "text": "this",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 60,
+          "end": 65,
+          "text": "month",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 65,
+          "end": 66,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 67,
+      "end": 98,
+      "text": "Offer Applicable for all users.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 67,
+          "end": 72,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 73,
+          "end": 83,
+          "text": "Applicable",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 84,
+          "end": 87,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 88,
+          "end": 91,
+          "text": "all",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 92,
+          "end": 97,
+          "text": "users",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 97,
+          "end": 98,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 99,
+      "end": 125,
+      "text": "www.gs.im/b/?oeHvSGbbB9eKt",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 99,
+          "end": 125,
+          "text": "www.gs.im/b/?oeHvSGbbB9eKt",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 11,
+      "end": 28,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 33,
+      "end": 47,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 51,
+      "end": 54,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 99,
+      "end": 125,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    },
+    {
+      "id": "s1-r2",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m3",
+        "s1-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

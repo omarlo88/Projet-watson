@@ -1,0 +1,296 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-5",
+  "name": "msg_26.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "2 for 99 @ BURGER KING! Walk-in to nearest BK outlet & pick ANY 2 BURGERS for 99. Hurry! Ltd. Period Offer. T&C Apply\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519734177845,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 23,
+      "text": "2 for 99 @ BURGER KING!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 1,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 2,
+          "end": 5,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 6,
+          "end": 8,
+          "text": "99",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 9,
+          "end": 10,
+          "text": "@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 11,
+          "end": 17,
+          "text": "BURGER",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 18,
+          "end": 22,
+          "text": "KING",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 22,
+          "end": 23,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 24,
+      "end": 81,
+      "text": "Walk-in to nearest BK outlet & pick ANY 2 BURGERS for 99.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 24,
+          "end": 31,
+          "text": "Walk-in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 32,
+          "end": 34,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 35,
+          "end": 42,
+          "text": "nearest",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 43,
+          "end": 45,
+          "text": "BK",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 46,
+          "end": 52,
+          "text": "outlet",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 53,
+          "end": 54,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 55,
+          "end": 59,
+          "text": "pick",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 60,
+          "end": 63,
+          "text": "ANY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 64,
+          "end": 65,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 66,
+          "end": 73,
+          "text": "BURGERS",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 74,
+          "end": 77,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 78,
+          "end": 80,
+          "text": "99",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 80,
+          "end": 81,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 82,
+      "end": 88,
+      "text": "Hurry!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 82,
+          "end": 87,
+          "text": "Hurry",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 87,
+          "end": 88,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 89,
+      "end": 107,
+      "text": "Ltd. Period Offer.",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 89,
+          "end": 93,
+          "text": "Ltd.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 94,
+          "end": 100,
+          "text": "Period",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 101,
+          "end": 106,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 106,
+          "end": 107,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "begin": 108,
+      "end": 117,
+      "text": "T&C Apply",
+      "tokens": [
+        {
+          "id": "s4-t0",
+          "begin": 108,
+          "end": 111,
+          "text": "T&C",
+          "whiteSpace": false
+        },
+        {
+          "id": "s4-t1",
+          "begin": 112,
+          "end": 117,
+          "text": "Apply",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 11,
+      "end": 22,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 55,
+      "end": 80,
+      "inCoref": false
+    },
+    {
+      "id": "s4-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 108,
+      "end": 111,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

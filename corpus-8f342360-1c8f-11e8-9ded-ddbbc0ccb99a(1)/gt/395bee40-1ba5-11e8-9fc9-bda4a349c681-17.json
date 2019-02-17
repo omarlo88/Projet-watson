@@ -1,0 +1,357 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-17",
+  "name": "thangamayil_jewellery.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Hurry up, Last 6 days only. \"Bangle Mela\" @ Thangamayil. Rs.50 off per gram for Gold Bangle purchases only at Nethaji road and Anna nagar Thangamayil. ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834309609,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 27,
+      "text": "Hurry up, Last 6 days only.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Hurry",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 8,
+          "text": "up",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 9,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 10,
+          "end": 14,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 15,
+          "end": 16,
+          "text": "6",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 17,
+          "end": 21,
+          "text": "days",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 22,
+          "end": 26,
+          "text": "only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 26,
+          "end": 27,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 28,
+      "end": 56,
+      "text": "\"Bangle Mela\" @ Thangamayil.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 28,
+          "end": 29,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 29,
+          "end": 35,
+          "text": "Bangle",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 36,
+          "end": 40,
+          "text": "Mela",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 40,
+          "end": 41,
+          "text": "\"",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 42,
+          "end": 43,
+          "text": "@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 44,
+          "end": 55,
+          "text": "Thangamayil",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 55,
+          "end": 56,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 57,
+      "end": 150,
+      "text": "Rs.50 off per gram for Gold Bangle purchases only at Nethaji road and Anna nagar Thangamayil.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 57,
+          "end": 62,
+          "text": "Rs.50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 63,
+          "end": 66,
+          "text": "off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 67,
+          "end": 70,
+          "text": "per",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 71,
+          "end": 75,
+          "text": "gram",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 76,
+          "end": 79,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 80,
+          "end": 84,
+          "text": "Gold",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 85,
+          "end": 91,
+          "text": "Bangle",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 92,
+          "end": 101,
+          "text": "purchases",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 102,
+          "end": 106,
+          "text": "only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 107,
+          "end": 109,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 110,
+          "end": 117,
+          "text": "Nethaji",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 118,
+          "end": 122,
+          "text": "road",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 123,
+          "end": 126,
+          "text": "and",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t13",
+          "begin": 127,
+          "end": 131,
+          "text": "Anna",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t14",
+          "begin": 132,
+          "end": 137,
+          "text": "nagar",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t15",
+          "begin": 138,
+          "end": 149,
+          "text": "Thangamayil",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t16",
+          "begin": 149,
+          "end": 150,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 10,
+      "end": 26,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 44,
+      "end": 55,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 57,
+      "end": 75,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 80,
+      "end": 91,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Branch",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Branch",
+      "begin": 110,
+      "end": 122,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Branch",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Branch",
+      "begin": 127,
+      "end": 149,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s2-m2",
+        "s2-m3"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

@@ -1,0 +1,351 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-6",
+  "name": "msg_27.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Last  2 Days! Lifestyle FLAT 50% +EXTRA 10% OFF ! Shop online at Lifestylestores.com & Get FLAT 50-60% on all Brands -Use code- EXTRA10 - Online Exclusive\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834483104,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 13,
+      "text": "Last  2 Days!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 7,
+          "text": "2",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 8,
+          "end": 12,
+          "text": "Days",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 12,
+          "end": 13,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 14,
+      "end": 49,
+      "text": "Lifestyle FLAT 50% +EXTRA 10% OFF !",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 14,
+          "end": 23,
+          "text": "Lifestyle",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 24,
+          "end": 28,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 29,
+          "end": 31,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 31,
+          "end": 32,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 33,
+          "end": 34,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 34,
+          "end": 39,
+          "text": "EXTRA",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 40,
+          "end": 42,
+          "text": "10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 42,
+          "end": 43,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 44,
+          "end": 47,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 48,
+          "end": 49,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 50,
+      "end": 154,
+      "text": "Shop online at Lifestylestores.com & Get FLAT 50-60% on all Brands -Use code- EXTRA10 - Online Exclusive",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 50,
+          "end": 54,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 55,
+          "end": 61,
+          "text": "online",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 62,
+          "end": 64,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 65,
+          "end": 84,
+          "text": "Lifestylestores.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 85,
+          "end": 86,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 87,
+          "end": 90,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 91,
+          "end": 95,
+          "text": "FLAT",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 96,
+          "end": 101,
+          "text": "50-60",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 101,
+          "end": 102,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 103,
+          "end": 105,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 106,
+          "end": 109,
+          "text": "all",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 110,
+          "end": 116,
+          "text": "Brands",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 117,
+          "end": 121,
+          "text": "-Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t13",
+          "begin": 122,
+          "end": 126,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t14",
+          "begin": 126,
+          "end": 127,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t15",
+          "begin": 128,
+          "end": 135,
+          "text": "EXTRA10",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t16",
+          "begin": 136,
+          "end": 137,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t17",
+          "begin": 138,
+          "end": 144,
+          "text": "Online",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t18",
+          "begin": 145,
+          "end": 154,
+          "text": "Exclusive",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 14,
+      "end": 23,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 24,
+      "end": 47,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 65,
+      "end": 84,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 87,
+      "end": 102,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 128,
+      "end": 135,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m1",
+        "s1-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

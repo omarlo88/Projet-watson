@@ -1,0 +1,268 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-18",
+  "name": "msg_39.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Holi Offer! BSNL Offers! Extra talk value Rs.190 = Rs.220, Rs.490 = Rs.600 TODAY (29.3.2017)  .Visit http://portal.bsnl.in.\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834830287,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 11,
+      "text": "Holi Offer!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Holi",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 10,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 10,
+          "end": 11,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 12,
+      "end": 24,
+      "text": "BSNL Offers!",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 12,
+          "end": 16,
+          "text": "BSNL",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 17,
+          "end": 23,
+          "text": "Offers",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 23,
+          "end": 24,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 25,
+      "end": 123,
+      "text": "Extra talk value Rs.190 = Rs.220, Rs.490 = Rs.600 TODAY (29.3.2017)  .Visit http://portal.bsnl.in.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 25,
+          "end": 30,
+          "text": "Extra",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 31,
+          "end": 35,
+          "text": "talk",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 36,
+          "end": 41,
+          "text": "value",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 42,
+          "end": 48,
+          "text": "Rs.190",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 49,
+          "end": 50,
+          "text": "=",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 51,
+          "end": 57,
+          "text": "Rs.220",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 57,
+          "end": 58,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 59,
+          "end": 65,
+          "text": "Rs.490",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 66,
+          "end": 67,
+          "text": "=",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 68,
+          "end": 74,
+          "text": "Rs.600",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t10",
+          "begin": 75,
+          "end": 80,
+          "text": "TODAY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t11",
+          "begin": 81,
+          "end": 82,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t12",
+          "begin": 82,
+          "end": 91,
+          "text": "29.3.2017",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t13",
+          "begin": 91,
+          "end": 92,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t14",
+          "begin": 94,
+          "end": 100,
+          "text": ".Visit",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t15",
+          "begin": 101,
+          "end": 122,
+          "text": "http://portal.bsnl.in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t16",
+          "begin": 122,
+          "end": 123,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 12,
+      "end": 16,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 25,
+      "end": 74,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 75,
+      "end": 80,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 101,
+      "end": 122,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "OfferhasValidityPeriod",
+      "args": [
+        "s2-m1",
+        "s2-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

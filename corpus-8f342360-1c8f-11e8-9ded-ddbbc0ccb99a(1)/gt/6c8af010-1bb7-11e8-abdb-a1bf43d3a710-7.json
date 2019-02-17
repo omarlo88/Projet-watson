@@ -1,0 +1,353 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-7",
+  "name": "msg_28.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "LAST DAY FOLKS! Awesome Deals @ Great Prices only for today. Get 50 Off on your ShopClues order of Rs.250. Cpn:SMCNI3GBNQ2B T&C. Shop@ https://goo.gl/S9wbMi\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834507720,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 15,
+      "text": "LAST DAY FOLKS!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "LAST",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 8,
+          "text": "DAY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 9,
+          "end": 14,
+          "text": "FOLKS",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 14,
+          "end": 15,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 16,
+      "end": 60,
+      "text": "Awesome Deals @ Great Prices only for today.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 16,
+          "end": 23,
+          "text": "Awesome",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 24,
+          "end": 29,
+          "text": "Deals",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 30,
+          "end": 31,
+          "text": "@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 32,
+          "end": 37,
+          "text": "Great",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 38,
+          "end": 44,
+          "text": "Prices",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 45,
+          "end": 49,
+          "text": "only",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 50,
+          "end": 53,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 54,
+          "end": 59,
+          "text": "today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 59,
+          "end": 60,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 61,
+      "end": 106,
+      "text": "Get 50 Off on your ShopClues order of Rs.250.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 61,
+          "end": 64,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 65,
+          "end": 67,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 68,
+          "end": 71,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 72,
+          "end": 74,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 75,
+          "end": 79,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 80,
+          "end": 89,
+          "text": "ShopClues",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 90,
+          "end": 95,
+          "text": "order",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 96,
+          "end": 98,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 99,
+          "end": 105,
+          "text": "Rs.250",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 105,
+          "end": 106,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 107,
+      "end": 156,
+      "text": "Cpn:SMCNI3GBNQ2B T&C. Shop@ https://goo.gl/S9wbMi",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 107,
+          "end": 110,
+          "text": "Cpn",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 110,
+          "end": 111,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 111,
+          "end": 123,
+          "text": "SMCNI3GBNQ2B",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 124,
+          "end": 128,
+          "text": "T&C.",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 129,
+          "end": 134,
+          "text": "Shop@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t5",
+          "begin": 135,
+          "end": 156,
+          "text": "https://goo.gl/S9wbMi",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 61,
+      "end": 71,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 80,
+      "end": 89,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 90,
+      "end": 105,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 111,
+      "end": 123,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 124,
+      "end": 128,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 135,
+      "end": 156,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s2-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s2-m2",
+        "s2-m1"
+      ]
+    },
+    {
+      "id": "s2-r2",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s2-m1",
+        "s2-m3"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

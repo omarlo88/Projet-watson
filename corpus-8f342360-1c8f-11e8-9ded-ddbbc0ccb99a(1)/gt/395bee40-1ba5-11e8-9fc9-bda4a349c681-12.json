@@ -1,0 +1,268 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-12",
+  "name": "olacabs.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Introducing Rentals Muhurtham Packages for weddings. Avail discounts of up to 30%. And personalise the vouchers with your name. Know more : https://blog.olacabs.com/176771902-2/ ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519727625829,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 52,
+      "text": "Introducing Rentals Muhurtham Packages for weddings.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 11,
+          "text": "Introducing",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 12,
+          "end": 19,
+          "text": "Rentals",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 20,
+          "end": 29,
+          "text": "Muhurtham",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 30,
+          "end": 38,
+          "text": "Packages",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 39,
+          "end": 42,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 43,
+          "end": 51,
+          "text": "weddings",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 51,
+          "end": 52,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 53,
+      "end": 82,
+      "text": "Avail discounts of up to 30%.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 53,
+          "end": 58,
+          "text": "Avail",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 59,
+          "end": 68,
+          "text": "discounts",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 69,
+          "end": 71,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 72,
+          "end": 74,
+          "text": "up",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 75,
+          "end": 77,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 78,
+          "end": 80,
+          "text": "30",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 80,
+          "end": 81,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 81,
+          "end": 82,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 83,
+      "end": 127,
+      "text": "And personalise the vouchers with your name.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 83,
+          "end": 86,
+          "text": "And",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 87,
+          "end": 98,
+          "text": "personalise",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 99,
+          "end": 102,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 103,
+          "end": 111,
+          "text": "vouchers",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 112,
+          "end": 116,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 117,
+          "end": 121,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 122,
+          "end": 126,
+          "text": "name",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 126,
+          "end": 127,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 128,
+      "end": 177,
+      "text": "Know more : https://blog.olacabs.com/176771902-2/",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 128,
+          "end": 132,
+          "text": "Know",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 133,
+          "end": 137,
+          "text": "more",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 138,
+          "end": 139,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 140,
+          "end": 177,
+          "text": "https://blog.olacabs.com/176771902-2/",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 59,
+      "end": 81,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 140,
+      "end": 177,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

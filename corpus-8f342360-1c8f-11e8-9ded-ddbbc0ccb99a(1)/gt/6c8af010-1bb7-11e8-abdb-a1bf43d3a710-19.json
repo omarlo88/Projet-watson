@@ -1,0 +1,387 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-19",
+  "name": "msg_40.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Get Rs 150 cashback upon taking 3 Micro/Mini/Prime rides & Rs 400 cashback with 6 rides in Chennai! Use code SAVE400 b/w 27th March - 2nd April. Book Now\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834860747,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 99,
+      "text": "Get Rs 150 cashback upon taking 3 Micro/Mini/Prime rides & Rs 400 cashback with 6 rides in Chennai!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 3,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 4,
+          "end": 6,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 7,
+          "end": 10,
+          "text": "150",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 11,
+          "end": 19,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 24,
+          "text": "upon",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 25,
+          "end": 31,
+          "text": "taking",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 32,
+          "end": 33,
+          "text": "3",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 34,
+          "end": 39,
+          "text": "Micro",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 39,
+          "end": 40,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 40,
+          "end": 44,
+          "text": "Mini",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 44,
+          "end": 45,
+          "text": "/",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 45,
+          "end": 50,
+          "text": "Prime",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 51,
+          "end": 56,
+          "text": "rides",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 57,
+          "end": 58,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 59,
+          "end": 61,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 62,
+          "end": 65,
+          "text": "400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 66,
+          "end": 74,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 75,
+          "end": 79,
+          "text": "with",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 80,
+          "end": 81,
+          "text": "6",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 82,
+          "end": 87,
+          "text": "rides",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 88,
+          "end": 90,
+          "text": "in",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 91,
+          "end": 98,
+          "text": "Chennai",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 98,
+          "end": 99,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 100,
+      "end": 144,
+      "text": "Use code SAVE400 b/w 27th March - 2nd April.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 100,
+          "end": 103,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 104,
+          "end": 108,
+          "text": "code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 109,
+          "end": 116,
+          "text": "SAVE400",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 117,
+          "end": 120,
+          "text": "b/w",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 121,
+          "end": 125,
+          "text": "27th",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 126,
+          "end": 131,
+          "text": "March",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 132,
+          "end": 133,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 134,
+          "end": 137,
+          "text": "2nd",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 138,
+          "end": 143,
+          "text": "April",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 143,
+          "end": 144,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 145,
+      "end": 153,
+      "text": "Book Now",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 145,
+          "end": 149,
+          "text": "Book",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 150,
+          "end": 153,
+          "text": "Now",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 0,
+      "end": 19,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 32,
+      "end": 56,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 59,
+      "end": 74,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 80,
+      "end": 98,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 109,
+      "end": 116,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 121,
+      "end": 143,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    },
+    {
+      "id": "s0-r2",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m3",
+        "s0-m4"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

@@ -1,0 +1,341 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-3",
+  "name": "msg_24.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "abhibus.com - Book today for the long Mahashivratri weekend. Get Rs.272 Cash Back from abhicash &  Freecharge (Rs 50). Redeem upto Rs.100 from abhicash . *T&C\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519734108739,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 60,
+      "text": "abhibus.com - Book today for the long Mahashivratri weekend.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 11,
+          "text": "abhibus.com",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 12,
+          "end": 13,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 14,
+          "end": 18,
+          "text": "Book",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 19,
+          "end": 24,
+          "text": "today",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 25,
+          "end": 28,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 29,
+          "end": 32,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 33,
+          "end": 37,
+          "text": "long",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 38,
+          "end": 51,
+          "text": "Mahashivratri",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 52,
+          "end": 59,
+          "text": "weekend",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 59,
+          "end": 60,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 61,
+      "end": 118,
+      "text": "Get Rs.272 Cash Back from abhicash &  Freecharge (Rs 50).",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 61,
+          "end": 64,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 65,
+          "end": 71,
+          "text": "Rs.272",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 72,
+          "end": 76,
+          "text": "Cash",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 77,
+          "end": 81,
+          "text": "Back",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 82,
+          "end": 86,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 87,
+          "end": 95,
+          "text": "abhicash",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 96,
+          "end": 97,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 99,
+          "end": 109,
+          "text": "Freecharge",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 110,
+          "end": 111,
+          "text": "(",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 111,
+          "end": 113,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 114,
+          "end": 116,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 116,
+          "end": 117,
+          "text": ")",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 117,
+          "end": 118,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 119,
+      "end": 153,
+      "text": "Redeem upto Rs.100 from abhicash .",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 119,
+          "end": 125,
+          "text": "Redeem",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 126,
+          "end": 130,
+          "text": "upto",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 131,
+          "end": 137,
+          "text": "Rs.100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 138,
+          "end": 142,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 143,
+          "end": 151,
+          "text": "abhicash",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 152,
+          "end": 153,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 154,
+      "end": 158,
+      "text": "*T&C",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 154,
+          "end": 158,
+          "text": "*T&C",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 0,
+      "end": 11,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 61,
+      "end": 81,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 99,
+      "end": 117,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 119,
+      "end": 137,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 143,
+      "end": 151,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 154,
+      "end": 158,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

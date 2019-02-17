@@ -1,0 +1,293 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-16",
+  "name": "lenskart3.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": " LAST DAY for Lenskart Steal Deal! Exchange your old specs & get 50% cashback on your next purchase. Click Lenskart.com/eye or Find nearby store lenskart.com/s ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519803504595,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 1,
+      "end": 34,
+      "text": "LAST DAY for Lenskart Steal Deal!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 1,
+          "end": 5,
+          "text": "LAST",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 9,
+          "text": "DAY",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 10,
+          "end": 13,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 14,
+          "end": 22,
+          "text": "Lenskart",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 23,
+          "end": 28,
+          "text": "Steal",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 29,
+          "end": 33,
+          "text": "Deal",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 33,
+          "end": 34,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 35,
+      "end": 100,
+      "text": "Exchange your old specs & get 50% cashback on your next purchase.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 35,
+          "end": 43,
+          "text": "Exchange",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 44,
+          "end": 48,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 49,
+          "end": 52,
+          "text": "old",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 53,
+          "end": 58,
+          "text": "specs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 59,
+          "end": 60,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 61,
+          "end": 64,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 65,
+          "end": 67,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 67,
+          "end": 68,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 69,
+          "end": 77,
+          "text": "cashback",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 78,
+          "end": 80,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 81,
+          "end": 85,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 86,
+          "end": 90,
+          "text": "next",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 91,
+          "end": 99,
+          "text": "purchase",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 99,
+          "end": 100,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 101,
+      "end": 159,
+      "text": "Click Lenskart.com/eye or Find nearby store lenskart.com/s",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 101,
+          "end": 106,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 107,
+          "end": 123,
+          "text": "Lenskart.com/eye",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 124,
+          "end": 126,
+          "text": "or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 127,
+          "end": 131,
+          "text": "Find",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 132,
+          "end": 138,
+          "text": "nearby",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 139,
+          "end": 144,
+          "text": "store",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 145,
+          "end": 159,
+          "text": "lenskart.com/s",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 14,
+      "end": 22,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 35,
+      "end": 99,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 107,
+      "end": 123,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 145,
+      "end": 159,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

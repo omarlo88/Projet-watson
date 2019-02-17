@@ -1,0 +1,244 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-11",
+  "name": "myntra.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Hi, Happy Hour:Extra 15% OFF on your fave brand Roadster From 12pm-3pm Use Code:HHSUN2RDFR http://smsd.in/mRQPEm5c ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834092577,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 114,
+      "text": "Hi, Happy Hour:Extra 15% OFF on your fave brand Roadster From 12pm-3pm Use Code:HHSUN2RDFR http://smsd.in/mRQPEm5c",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 2,
+          "text": "Hi",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 2,
+          "end": 3,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 4,
+          "end": 9,
+          "text": "Happy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 10,
+          "end": 14,
+          "text": "Hour",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 14,
+          "end": 15,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 15,
+          "end": 20,
+          "text": "Extra",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 21,
+          "end": 23,
+          "text": "15",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 23,
+          "end": 24,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 25,
+          "end": 28,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 29,
+          "end": 31,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 32,
+          "end": 36,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 37,
+          "end": 41,
+          "text": "fave",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 42,
+          "end": 47,
+          "text": "brand",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 48,
+          "end": 56,
+          "text": "Roadster",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 57,
+          "end": 61,
+          "text": "From",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 62,
+          "end": 70,
+          "text": "12pm-3pm",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 71,
+          "end": 74,
+          "text": "Use",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 75,
+          "end": 79,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 79,
+          "end": 90,
+          "text": ":HHSUN2RDFR",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 91,
+          "end": 114,
+          "text": "http://smsd.in/mRQPEm5c",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 15,
+      "end": 28,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 37,
+      "end": 56,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 62,
+      "end": 70,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m4",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 79,
+      "end": 90,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m5",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 91,
+      "end": 114,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m3"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

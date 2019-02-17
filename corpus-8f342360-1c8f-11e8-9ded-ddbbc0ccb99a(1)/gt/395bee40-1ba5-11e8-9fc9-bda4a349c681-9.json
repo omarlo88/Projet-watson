@@ -1,0 +1,311 @@
+{
+  "id": "395bee40-1ba5-11e8-9fc9-bda4a349c681-9",
+  "name": "lenskart.txt",
+  "createdDate": 1519725708068,
+  "version": 3,
+  "text": "Last Weekend to avail Buy 1 Get 1 FREE* on All EyeWear. Click: lenskart.com/eye Limited time offer. Hurry! Or find store: lenskart.com/s",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834039972,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 55,
+      "text": "Last Weekend to avail Buy 1 Get 1 FREE* on All EyeWear.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "Last",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 12,
+          "text": "Weekend",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 13,
+          "end": 15,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 16,
+          "end": 21,
+          "text": "avail",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 22,
+          "end": 25,
+          "text": "Buy",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 26,
+          "end": 27,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 28,
+          "end": 31,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 32,
+          "end": 33,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 34,
+          "end": 38,
+          "text": "FREE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 38,
+          "end": 39,
+          "text": "*",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 40,
+          "end": 42,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 43,
+          "end": 46,
+          "text": "All",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 47,
+          "end": 54,
+          "text": "EyeWear",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 54,
+          "end": 55,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 56,
+      "end": 99,
+      "text": "Click: lenskart.com/eye Limited time offer.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 56,
+          "end": 61,
+          "text": "Click",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 61,
+          "end": 62,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 63,
+          "end": 79,
+          "text": "lenskart.com/eye",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 80,
+          "end": 87,
+          "text": "Limited",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 88,
+          "end": 92,
+          "text": "time",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 93,
+          "end": 98,
+          "text": "offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 98,
+          "end": 99,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 100,
+      "end": 106,
+      "text": "Hurry!",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 100,
+          "end": 105,
+          "text": "Hurry",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 105,
+          "end": 106,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 107,
+      "end": 136,
+      "text": "Or find store: lenskart.com/s",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 107,
+          "end": 109,
+          "text": "Or",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t1",
+          "begin": 110,
+          "end": 114,
+          "text": "find",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t2",
+          "begin": 115,
+          "end": 120,
+          "text": "store",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t3",
+          "begin": 120,
+          "end": 121,
+          "text": ":",
+          "whiteSpace": false
+        },
+        {
+          "id": "s3-t4",
+          "begin": 122,
+          "end": 136,
+          "text": "lenskart.com/s",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 22,
+      "end": 38,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer_Applicable",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer_Applicable",
+      "begin": 43,
+      "end": 54,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 63,
+      "end": 79,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 122,
+      "end": 136,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferisApplicable",
+      "args": [
+        "s0-m1",
+        "s0-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

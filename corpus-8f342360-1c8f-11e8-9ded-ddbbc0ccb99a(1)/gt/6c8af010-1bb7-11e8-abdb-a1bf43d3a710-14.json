@@ -1,0 +1,310 @@
+{
+  "id": "6c8af010-1bb7-11e8-abdb-a1bf43d3a710-14",
+  "name": "msg_35.txt",
+  "createdDate": 1519733524881,
+  "version": 3,
+  "text": "Offer Ends 4pm! Designer Notebooks @Just Rs 1 | Cases for 100+ Phone Models @40-50% Off + Extra 15% Off Orders >999 | Code:NTBKAT1. Shop@ www.dailyobjects.com\n",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519834728898,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 131,
+      "text": "Offer Ends 4pm! Designer Notebooks @Just Rs 1 | Cases for 100+ Phone Models @40-50% Off + Extra 15% Off Orders >999 | Code:NTBKAT1.",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 5,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 6,
+          "end": 10,
+          "text": "Ends",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 11,
+          "end": 15,
+          "text": "4pm!",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 16,
+          "end": 24,
+          "text": "Designer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 25,
+          "end": 34,
+          "text": "Notebooks",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 35,
+          "end": 40,
+          "text": "@Just",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 41,
+          "end": 43,
+          "text": "Rs",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 44,
+          "end": 45,
+          "text": "1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 46,
+          "end": 47,
+          "text": "|",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t9",
+          "begin": 48,
+          "end": 53,
+          "text": "Cases",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t10",
+          "begin": 54,
+          "end": 57,
+          "text": "for",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t11",
+          "begin": 58,
+          "end": 61,
+          "text": "100",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t12",
+          "begin": 61,
+          "end": 62,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t13",
+          "begin": 63,
+          "end": 68,
+          "text": "Phone",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t14",
+          "begin": 69,
+          "end": 75,
+          "text": "Models",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t15",
+          "begin": 76,
+          "end": 82,
+          "text": "@40-50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t16",
+          "begin": 82,
+          "end": 83,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t17",
+          "begin": 84,
+          "end": 87,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t18",
+          "begin": 88,
+          "end": 89,
+          "text": "+",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t19",
+          "begin": 90,
+          "end": 95,
+          "text": "Extra",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t20",
+          "begin": 96,
+          "end": 98,
+          "text": "15",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t21",
+          "begin": 98,
+          "end": 99,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t22",
+          "begin": 100,
+          "end": 103,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t23",
+          "begin": 104,
+          "end": 110,
+          "text": "Orders",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t24",
+          "begin": 111,
+          "end": 112,
+          "text": ">",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t25",
+          "begin": 112,
+          "end": 115,
+          "text": "999",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t26",
+          "begin": 116,
+          "end": 117,
+          "text": "|",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t27",
+          "begin": 118,
+          "end": 122,
+          "text": "Code",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t28",
+          "begin": 122,
+          "end": 130,
+          "text": ":NTBKAT1",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t29",
+          "begin": 130,
+          "end": 131,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 132,
+      "end": 158,
+      "text": "Shop@ www.dailyobjects.com",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 132,
+          "end": 137,
+          "text": "Shop@",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 138,
+          "end": 158,
+          "text": "www.dailyobjects.com",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 16,
+      "end": 115,
+      "inCoref": false
+    },
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Coupon_Code",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Coupon_Code",
+      "begin": 122,
+      "end": 130,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant_URL",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant_URL",
+      "begin": 138,
+      "end": 158,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s0-r1",
+      "properties": {},
+      "type": "OfferhasCouponCode",
+      "args": [
+        "s0-m3",
+        "s0-m1"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

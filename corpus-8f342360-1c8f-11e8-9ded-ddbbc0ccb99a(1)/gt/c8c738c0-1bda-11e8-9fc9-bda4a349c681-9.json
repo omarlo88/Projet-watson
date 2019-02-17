@@ -1,0 +1,209 @@
+{
+  "id": "c8c738c0-1bda-11e8-9fc9-bda4a349c681-9",
+  "name": "otto.txt",
+  "createdDate": 1519748712012,
+  "version": 3,
+  "text": "Welcome to OTTO's End of season SALE! Get up to 40% Off*, T&C Apply ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519749555086,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 37,
+      "text": "Welcome to OTTO's End of season SALE!",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 7,
+          "text": "Welcome",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 8,
+          "end": 10,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 11,
+          "end": 15,
+          "text": "OTTO",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 15,
+          "end": 17,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 18,
+          "end": 21,
+          "text": "End",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 22,
+          "end": 24,
+          "text": "of",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 25,
+          "end": 31,
+          "text": "season",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 32,
+          "end": 36,
+          "text": "SALE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 36,
+          "end": 37,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 38,
+      "end": 67,
+      "text": "Get up to 40% Off*, T&C Apply",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 38,
+          "end": 41,
+          "text": "Get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 42,
+          "end": 44,
+          "text": "up",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 45,
+          "end": 47,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 48,
+          "end": 50,
+          "text": "40",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 50,
+          "end": 51,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 52,
+          "end": 55,
+          "text": "Off",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 55,
+          "end": 56,
+          "text": "*",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 56,
+          "end": 57,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 58,
+          "end": 61,
+          "text": "T&C",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 62,
+          "end": 67,
+          "text": "Apply",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 11,
+      "end": 15,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 38,
+      "end": 55,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 58,
+      "end": 61,
+      "inCoref": false
+    }
+  ],
+  "relations": [],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}

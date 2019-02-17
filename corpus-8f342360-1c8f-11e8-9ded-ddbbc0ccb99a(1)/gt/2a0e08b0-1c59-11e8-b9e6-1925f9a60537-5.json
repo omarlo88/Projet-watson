@@ -1,0 +1,423 @@
+{
+  "id": "2a0e08b0-1c59-11e8-b9e6-1925f9a60537-5",
+  "name": "league.txt",
+  "createdDate": 1519802991803,
+  "version": 3,
+  "text": "This Valentine's Day, look great together !! Shop at HI-STYLE & your Valentine will get 50% OFF on the bill value. Offer valid from 1st to 14th Feb'18. T&C. ",
+  "docLength": 0,
+  "language": "EN",
+  "status": "SUBMITTED",
+  "modifiedDate": 1519835555287,
+  "documentSet": [],
+  "preannotation": [],
+  "sentences": [
+    {
+      "id": "s0",
+      "begin": 0,
+      "end": 43,
+      "text": "This Valentine's Day, look great together !",
+      "tokens": [
+        {
+          "id": "s0-t0",
+          "begin": 0,
+          "end": 4,
+          "text": "This",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t1",
+          "begin": 5,
+          "end": 14,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t2",
+          "begin": 14,
+          "end": 16,
+          "text": "'s",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t3",
+          "begin": 17,
+          "end": 20,
+          "text": "Day",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t4",
+          "begin": 20,
+          "end": 21,
+          "text": ",",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t5",
+          "begin": 22,
+          "end": 26,
+          "text": "look",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t6",
+          "begin": 27,
+          "end": 32,
+          "text": "great",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t7",
+          "begin": 33,
+          "end": 41,
+          "text": "together",
+          "whiteSpace": false
+        },
+        {
+          "id": "s0-t8",
+          "begin": 42,
+          "end": 43,
+          "text": "!",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "begin": 43,
+      "end": 114,
+      "text": "! Shop at HI-STYLE & your Valentine will get 50% OFF on the bill value.",
+      "tokens": [
+        {
+          "id": "s1-t0",
+          "begin": 43,
+          "end": 44,
+          "text": "!",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t1",
+          "begin": 45,
+          "end": 49,
+          "text": "Shop",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t2",
+          "begin": 50,
+          "end": 52,
+          "text": "at",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t3",
+          "begin": 53,
+          "end": 55,
+          "text": "HI",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t4",
+          "begin": 55,
+          "end": 56,
+          "text": "-",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t5",
+          "begin": 56,
+          "end": 61,
+          "text": "STYLE",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t6",
+          "begin": 62,
+          "end": 63,
+          "text": "&",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t7",
+          "begin": 64,
+          "end": 68,
+          "text": "your",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t8",
+          "begin": 69,
+          "end": 78,
+          "text": "Valentine",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t9",
+          "begin": 79,
+          "end": 83,
+          "text": "will",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t10",
+          "begin": 84,
+          "end": 87,
+          "text": "get",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t11",
+          "begin": 88,
+          "end": 90,
+          "text": "50",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t12",
+          "begin": 90,
+          "end": 91,
+          "text": "%",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t13",
+          "begin": 92,
+          "end": 95,
+          "text": "OFF",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t14",
+          "begin": 96,
+          "end": 98,
+          "text": "on",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t15",
+          "begin": 99,
+          "end": 102,
+          "text": "the",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t16",
+          "begin": 103,
+          "end": 107,
+          "text": "bill",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t17",
+          "begin": 108,
+          "end": 113,
+          "text": "value",
+          "whiteSpace": false
+        },
+        {
+          "id": "s1-t18",
+          "begin": 113,
+          "end": 114,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "begin": 115,
+      "end": 151,
+      "text": "Offer valid from 1st to 14th Feb'18.",
+      "tokens": [
+        {
+          "id": "s2-t0",
+          "begin": 115,
+          "end": 120,
+          "text": "Offer",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t1",
+          "begin": 121,
+          "end": 126,
+          "text": "valid",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t2",
+          "begin": 127,
+          "end": 131,
+          "text": "from",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t3",
+          "begin": 132,
+          "end": 135,
+          "text": "1st",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t4",
+          "begin": 136,
+          "end": 138,
+          "text": "to",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t5",
+          "begin": 139,
+          "end": 143,
+          "text": "14th",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t6",
+          "begin": 144,
+          "end": 147,
+          "text": "Feb",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t7",
+          "begin": 147,
+          "end": 148,
+          "text": "'",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t8",
+          "begin": 148,
+          "end": 150,
+          "text": "18",
+          "whiteSpace": false
+        },
+        {
+          "id": "s2-t9",
+          "begin": 150,
+          "end": 151,
+          "text": ".",
+          "whiteSpace": false
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "begin": 152,
+      "end": 156,
+      "text": "T&C.",
+      "tokens": [
+        {
+          "id": "s3-t0",
+          "begin": 152,
+          "end": 156,
+          "text": "T&C.",
+          "whiteSpace": false
+        }
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "id": "s0-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Festival_Occasion_Offers",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Festival_Occasion_Offers",
+      "begin": 5,
+      "end": 14,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Merchant",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Merchant",
+      "begin": 53,
+      "end": 61,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m2",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Festival_Occasion_Offers",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Festival_Occasion_Offers",
+      "begin": 69,
+      "end": 78,
+      "inCoref": false
+    },
+    {
+      "id": "s1-m3",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Offer",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Offer",
+      "begin": 84,
+      "end": 95,
+      "inCoref": false
+    },
+    {
+      "id": "s2-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Validity_Period",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Validity_Period",
+      "begin": 121,
+      "end": 150,
+      "inCoref": false
+    },
+    {
+      "id": "s3-m1",
+      "properties": {
+        "SIRE_MENTION_ROLE": "Terms_Conditions",
+        "SIRE_ENTITY_SUBTYPE": "NONE",
+        "SIRE_MENTION_TYPE": "NONE",
+        "SIRE_MENTION_CLASS": "SPC"
+      },
+      "type": "Terms_Conditions",
+      "begin": 152,
+      "end": 156,
+      "inCoref": false
+    }
+  ],
+  "relations": [
+    {
+      "id": "s1-r1",
+      "properties": {},
+      "type": "MerchantgivesOffer",
+      "args": [
+        "s1-m1",
+        "s1-m3"
+      ]
+    },
+    {
+      "id": "s1-r2",
+      "properties": {},
+      "type": "OfferhasName",
+      "args": [
+        "s1-m3",
+        "s1-m2"
+      ]
+    }
+  ],
+  "corefs": [],
+  "typeResolved": true,
+  "userResolved": false
+}
